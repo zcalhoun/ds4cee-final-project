@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{burton}
+G.~A. Burton, R.~Di~Giulio, D.~Costello, and J.~R. Rohr, ``Slipping through the
+  cracks: Why is the u.s. environmental protection agency not funding
+  extramural research on chemicals in our environment?,'' {\em Environmental
+  Science and Technology}, vol.~51, no.~2, pp.~755--756, 2017.
+\newblock doi: 10.1021/acs.est.6b05877.
+
+\bibitem{matthies}
+M.~Matthies, K.~Solomon, M.~Vighi, A.~Gilman, and J.~V. Tarazona, ``The origin
+  and evolution of assessment criteria for persistent, bioaccumulative and
+  toxic (pbt) chemicals and persistent organic pollutants (pops)electronic
+  supplementary information (esi) available. see doi: 10.1039/c6em00311g,''
+  {\em Environmental Science: Processes and Impacts}, vol.~18, no.~9,
+  pp.~1114--1128, 2016.
+
+\bibitem{czub}
+G.~Czub, F.~Wania, and M.~S. McLachlan, ``Combining long-range transport and
+  bioaccumulation considerations to identify potential arctic contaminants,''
+  {\em Environmental Science \& Technology}, vol.~42, no.~10, pp.~3704--3709,
+  2008.
+\newblock doi: 10.1021/es7028679.
+
+\bibitem{meylan}
+W.~M. Meylan and P.~H. Howard, ``Bond contribution method for estimating
+  henry's law constants,'' {\em Environmental Toxicology and Chemistry},
+  vol.~10, no.~10, pp.~1283--1293, 1991.
+
+\bibitem{epa-comptox}
+E.~P. Agency, ``Comptox dashboard.'' \url{https://comptox.epa.gov/dashboard/}.
+
+\end{thebibliography}
