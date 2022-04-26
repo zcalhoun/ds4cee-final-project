@@ -1,0 +1,135 @@
+\begin{thebibliography}{10}
+
+\bibitem{burton}
+G.~A. Burton, R.~Di~Giulio, D.~Costello, and J.~R. Rohr, ``Slipping through the
+  cracks: Why is the u.s. environmental protection agency not funding
+  extramural research on chemicals in our environment?,'' {\em Environmental
+  Science and Technology}, vol.~51, no.~2, pp.~755--756, 2017.
+\newblock doi: 10.1021/acs.est.6b05877.
+
+\bibitem{matthies}
+M.~Matthies, K.~Solomon, M.~Vighi, A.~Gilman, and J.~V. Tarazona, ``The origin
+  and evolution of assessment criteria for persistent, bioaccumulative and
+  toxic (pbt) chemicals and persistent organic pollutants (pops)electronic
+  supplementary information (esi) available. see doi: 10.1039/c6em00311g,''
+  {\em Environmental Science: Processes and Impacts}, vol.~18, no.~9,
+  pp.~1114--1128, 2016.
+
+\bibitem{czub}
+G.~Czub, F.~Wania, and M.~S. McLachlan, ``Combining long-range transport and
+  bioaccumulation considerations to identify potential arctic contaminants,''
+  {\em Environmental Science \& Technology}, vol.~42, no.~10, pp.~3704--3709,
+  2008.
+\newblock doi: 10.1021/es7028679.
+
+\bibitem{meylan}
+W.~M. Meylan and P.~H. Howard, ``Bond contribution method for estimating
+  henry's law constants,'' {\em Environmental Toxicology and Chemistry},
+  vol.~10, no.~10, pp.~1283--1293, 1991.
+
+\bibitem{sander2015}
+R.~Sander, ``Compilation of henry's law constants (version 4.0) for water as
+  solvent,'' {\em Atmospheric Chemistry and Physics}, vol.~15, no.~8,
+  pp.~4399--4981, 2015.
+
+\bibitem{sander-website}
+R.~Sander, ``Henry's law constants: Download.''
+  \url{https://henry.mpch-mainz.gwdg.de/henry/download.html}, April 2022.
+
+\bibitem{oboyle2012}
+N.~M. O'Boyle, ``Towards a universal smiles representation - a standard method
+  to generate canonical smiles based on the inchi,'' {\em Journal of
+  Cheminformatics}, vol.~4, no.~1, p.~22, 2012.
+
+\bibitem{PubChemPy}
+Various, ``Pubchempy.'' Online, April 2012.
+
+\bibitem{kim2015}
+S.~Kim, P.~A. Thiessen, E.~E. Bolton, and S.~H. Bryant, ``Pug-soap and
+  pug-rest: web services for programmatic access to chemical information in
+  pubchem,'' {\em Nucleic acids research}, vol.~43, no.~W1, pp.~W605--W611,
+  2015.
+\newblock 25934803[pmid] PMC4489244[pmcid] gkv396[PII].
+
+\bibitem{Ramsundar-et-al-2019}
+B.~Ramsundar, P.~Eastman, P.~Walters, V.~Pande, K.~Leswing, and Z.~Wu, {\em
+  Deep Learning for the Life Sciences}.
+\newblock O'Reilly Media, 2019.
+\newblock
+  \url{https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837}.
+
+\bibitem{rdkit}
+G.~Landrum, ``Rdkit: Open-source cheminformatics.'' \url{http://www.rdkit.org},
+  2022.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay, ``Scikit-learn:
+  Machine learning in {P}ython,'' {\em Journal of Machine Learning Research},
+  vol.~12, pp.~2825--2830, 2011.
+
+\bibitem{Velickovic2017}
+P.~Veli{\v c}kovi{\'c}, G.~Cucurull, A.~Casanova, A.~Romero, P.~Li{\`o}, and
+  Y.~Bengio, ``Graph attention networks,'' 2017.
+
+\bibitem{Gilmer2017}
+J.~Gilmer, S.~S. Schoenholz, P.~F. Riley, O.~Vinyals, and G.~E. Dahl, ``Neural
+  message passing for quantum chemistry,'' 2017.
+
+\bibitem{Kipf2016}
+T.~N. Kipf and M.~Welling, ``Semi-supervised classification with graph
+  convolutional networks,'' {\em CoRR}, vol.~abs/1609.02907, 2016.
+
+\bibitem{gcnmodel}
+D.~D. Team, ``Gcnmodel.''
+  \url{https://deepchem.readthedocs.io/en/latest/api_reference/models.html?highlight=l2loss#gcnmodel},
+  2022.
+
+\bibitem{Kearnes2016}
+S.~Kearnes, K.~McCloskey, M.~Berndl, V.~Pande, and P.~Riley, ``Molecular graph
+  convolutions: moving beyond fingerprints,'' {\em Journal of Computer-Aided
+  Molecular Design}, vol.~30, pp.~595--608, aug 2016.
+
+\bibitem{Srivastava2014}
+N.~Srivastava, G.~Hinton, A.~Krizhevsky, I.~Sutskever, and R.~Salakhutdinov,
+  ``Dropout: A simple way to prevent neural networks from overfitting,'' {\em
+  J. Mach. Learn. Res.}, vol.~15, pp.~1929--1958, jan 2014.
+
+\bibitem{Agarap2018}
+A.~F. Agarap, ``Deep learning using rectified linear units (relu),'' {\em
+  CoRR}, vol.~abs/1803.08375, 2018.
+
+\bibitem{kingma2014}
+D.~P. Kingma and J.~Ba, ``Adam: A method for stochastic optimization,'' 2014.
+
+\bibitem{Mansouri2018}
+K.~Mansouri, C.~M. Grulke, R.~S. Judson, and A.~J. Williams, ``Opera models for
+  predicting physicochemical properties and environmental fate endpoints,''
+  {\em Journal of cheminformatics}, vol.~10, no.~1, pp.~10--10, 2018.
+\newblock 29520515[pmid] PMC5843579[pmcid] 10.1186/s13321-018-0263-1[PII].
+
+\bibitem{williams2017}
+A.~J. Williams, C.~M. Grulke, J.~Edwards, A.~D. McEachran, K.~Mansouri, N.~C.
+  Baker, G.~Patlewicz, I.~Shah, J.~F. Wambaugh, R.~S. Judson, and A.~M.
+  Richard, ``The comptox chemistry dashboard: a community data resource for
+  environmental chemistry,'' {\em Journal of Cheminformatics}, vol.~9, no.~1,
+  p.~61, 2017.
+
+\bibitem{zhang2021}
+B.~Zhang, M.~Zhou, J.~Wu, and F.~Gao, ``Predicting material properties using a
+  3d graph neural network with invariant local descriptors,'' 2021.
+
+\bibitem{English2001}
+N.~J. English and D.~G. Carroll, ``Prediction of henry's law constants by a
+  quantitative structure property relationship and neural networks,'' {\em
+  Journal of Chemical Information and Computer Sciences}, vol.~41, no.~5,
+  pp.~1150--1161, 2001.
+\newblock doi: 10.1021/ci010361d.
+
+\bibitem{oecd2014}
+OECD, {\em Guidance Document on the Validation of (Quantitative)
+  Structure-Activity Relationship [(Q)SAR] Models}.
+\newblock 2014.
+
+\end{thebibliography}

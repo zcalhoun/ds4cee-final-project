@@ -165,8 +165,8 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 164,3.1*10**-2,"",M,18,24,18,dinitrogen tetroxide,N<sub>2</sub>O<sub>4</sub>,"",10544-72-6,WFPZPJSADLPSON-UHFFFAOYSA-N,3
 165,1.3*10**-2,1100,M,18,402,18,dinitrogen tetroxide,N<sub>2</sub>O<sub>4</sub>,"",10544-72-6,WFPZPJSADLPSON-UHFFFAOYSA-N,3
 166,8.7*10**-4,3600,T,19,255,19,dinitrogen pentoxide,N<sub>2</sub>O<sub>5</sub>,nitric anhydride,10102-03-1,ZWWCURLKEXEFQT-UHFFFAOYSA-N,3
-167,&#8734;,"",E,19,599,19,dinitrogen pentoxide,N<sub>2</sub>O<sub>5</sub>,nitric anhydride,10102-03-1,ZWWCURLKEXEFQT-UHFFFAOYSA-N,3
-168,&#8734;,"",E,19,354,19,dinitrogen pentoxide,N<sub>2</sub>O<sub>5</sub>,nitric anhydride,10102-03-1,ZWWCURLKEXEFQT-UHFFFAOYSA-N,3
+167,,"",E,19,599,19,dinitrogen pentoxide,N<sub>2</sub>O<sub>5</sub>,nitric anhydride,10102-03-1,ZWWCURLKEXEFQT-UHFFFAOYSA-N,3
+168,,"",E,19,354,19,dinitrogen pentoxide,N<sub>2</sub>O<sub>5</sub>,nitric anhydride,10102-03-1,ZWWCURLKEXEFQT-UHFFFAOYSA-N,3
 169,1.4*10**3,"",Q,20,340,20,hydroxylamine,H<sub>3</sub>NO,"",7803-49-8,AVXURJPOCDRRFD-UHFFFAOYSA-N,3
 170,4.8*10**-1,4800,L,21,631,21,nitrous acid,HNO<sub>2</sub>,"",7782-77-6,IOVCWXUNBOPUCH-UHFFFAOYSA-N,3
 171,4.7*10**-1,4900,M,21,61,21,nitrous acid,HNO<sub>2</sub>,"",7782-77-6,IOVCWXUNBOPUCH-UHFFFAOYSA-N,3
@@ -250,11 +250,11 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 248,1.0*10**-2,3300,L,36,744,36,chlorine dioxide,ClO<sub>2</sub>,"",10049-04-4,OSVXSBDYLRYLIG-UHFFFAOYSA-N,5
 249,1.0*10**-2,3300,X,36,783,36,chlorine dioxide,ClO<sub>2</sub>,"",10049-04-4,OSVXSBDYLRYLIG-UHFFFAOYSA-N,5
 250,9.9*10**-3,3300,X,36,783,36,chlorine dioxide,ClO<sub>2</sub>,"",10049-04-4,OSVXSBDYLRYLIG-UHFFFAOYSA-N,5
-251,&gt; 4.9*10**-4,"",M,37,622,37,nitrosyl chloride,NOCl,"",2696-92-6,VPCDQGACGWYTMC-UHFFFAOYSA-N,5
+251, 4.9*10**-4,"",M,37,622,37,nitrosyl chloride,NOCl,"",2696-92-6,VPCDQGACGWYTMC-UHFFFAOYSA-N,5
 252,4.5*10**-4,"",E,38,253,38,nitryl chloride,ClNO<sub>2</sub>,"",13444-90-1,HSSFHZJIMRUXDM-UHFFFAOYSA-M,5
 253,2.4*10**-4,"",E,38,62,38,nitryl chloride,ClNO<sub>2</sub>,"",13444-90-1,HSSFHZJIMRUXDM-UHFFFAOYSA-M,5
 254,3.9*10**-4,"",?,38,582,38,nitryl chloride,ClNO<sub>2</sub>,"",13444-90-1,HSSFHZJIMRUXDM-UHFFFAOYSA-M,5
-255,&#8734;,"",E,39,599,39,chlorine nitrate,ClNO<sub>3</sub>,"",14545-72-3,XYLGPCWDPLOBGP-UHFFFAOYSA-N,5
+255,,"",E,39,599,39,chlorine nitrate,ClNO<sub>3</sub>,"",14545-72-3,XYLGPCWDPLOBGP-UHFFFAOYSA-N,5
 256,8.6*10**-1,6000,L,40,603,40,chloramine,NH<sub>2</sub>Cl,chloramide,10599-90-3,QDHHCQZDFGDHMP-UHFFFAOYSA-N,5
 257,8.6*10**-1,6000,L,40,602,40,chloramine,NH<sub>2</sub>Cl,chloramide,10599-90-3,QDHHCQZDFGDHMP-UHFFFAOYSA-N,5
 258,9.2*10**-1,4800,M,40,329,40,chloramine,NH<sub>2</sub>Cl,chloramide,10599-90-3,QDHHCQZDFGDHMP-UHFFFAOYSA-N,5
@@ -285,18 +285,18 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 283,"","",?,45,138,45,hydrogen bromide,HBr,"",10035-10-6,CPELXLSAUQHCOX-UHFFFAOYSA-N,6
 284,2.4*10**-1,370,?,45,188,45,hydrogen bromide,HBr,"",10035-10-6,CPELXLSAUQHCOX-UHFFFAOYSA-N,6
 285,"","",W,45,96,45,hydrogen bromide,HBr,"",10035-10-6,CPELXLSAUQHCOX-UHFFFAOYSA-N,6
-286,&gt; 1.3,"",L,46,603,46,hypobromous acid,HOBr,"",13517-11-8,CUILPNURFADTPE-UHFFFAOYSA-N,6
-287,&gt; 1.3,"",L,46,602,46,hypobromous acid,HOBr,"",13517-11-8,CUILPNURFADTPE-UHFFFAOYSA-N,6
-288,&gt; 1.9*10**1,"",M,46,79,46,hypobromous acid,HOBr,"",13517-11-8,CUILPNURFADTPE-UHFFFAOYSA-N,6
+286, 1.3,"",L,46,603,46,hypobromous acid,HOBr,"",13517-11-8,CUILPNURFADTPE-UHFFFAOYSA-N,6
+287, 1.3,"",L,46,602,46,hypobromous acid,HOBr,"",13517-11-8,CUILPNURFADTPE-UHFFFAOYSA-N,6
+288, 1.9*10**1,"",M,46,79,46,hypobromous acid,HOBr,"",13517-11-8,CUILPNURFADTPE-UHFFFAOYSA-N,6
 289,1.8*10**-2,4000,T,46,513,46,hypobromous acid,HOBr,"",13517-11-8,CUILPNURFADTPE-UHFFFAOYSA-N,6
 290,6.0*10**1,"",E,46,253,46,hypobromous acid,HOBr,"",13517-11-8,CUILPNURFADTPE-UHFFFAOYSA-N,6
 291,9.1*10**-1,"",E,46,714,46,hypobromous acid,HOBr,"",13517-11-8,CUILPNURFADTPE-UHFFFAOYSA-N,6
 292,"","",W,46,242,46,hypobromous acid,HOBr,"",13517-11-8,CUILPNURFADTPE-UHFFFAOYSA-N,6
 293,3.0*10**-3,"",E,47,253,47,nitryl bromide,BrNO<sub>2</sub>,"",13536-70-4,SEYAFCXQVVHRPY-UHFFFAOYSA-M,6
-294,&#8734;,"",E,48,599,48,bromine nitrate,BrNO<sub>3</sub>,"",40423-14-1,RRTWEEAEXPZMPY-UHFFFAOYSA-N,6
+294,,"",E,48,599,48,bromine nitrate,BrNO<sub>3</sub>,"",40423-14-1,RRTWEEAEXPZMPY-UHFFFAOYSA-N,6
 295,9.7*10**-3,5600,L,49,603,49,bromine chloride,BrCl,"",13863-41-7,CODNYICXDISAEA-UHFFFAOYSA-N,6
 296,9.7*10**-3,5600,L,49,602,49,bromine chloride,BrCl,"",13863-41-7,CODNYICXDISAEA-UHFFFAOYSA-N,6
-297,&lt; 6.2*10**-2,"",M,49,377,49,bromine chloride,BrCl,"",13863-41-7,CODNYICXDISAEA-UHFFFAOYSA-N,6
+297, 6.2*10**-2,"",M,49,377,49,bromine chloride,BrCl,"",13863-41-7,CODNYICXDISAEA-UHFFFAOYSA-N,6
 298,1.5*10**-2,"",M,49,200,49,bromine chloride,BrCl,"",13863-41-7,CODNYICXDISAEA-UHFFFAOYSA-N,6
 299,9.3*10**-3,5600,M,49,52,49,bromine chloride,BrCl,"",13863-41-7,CODNYICXDISAEA-UHFFFAOYSA-N,6
 300,4.2*10**-2,4000,M,49,209,49,bromine chloride,BrCl,"",13863-41-7,CODNYICXDISAEA-UHFFFAOYSA-N,6
@@ -313,7 +313,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 311,"","",T,52,97,52,hydrogen iodide,HI,"",10034-85-2,XMBWDFGMSWQBCA-UHFFFAOYSA-N,7
 312,"","",T,52,717,52,hydrogen iodide,HI,"",10034-85-2,XMBWDFGMSWQBCA-UHFFFAOYSA-N,7
 313,"","",W,52,96,52,hydrogen iodide,HI,"",10034-85-2,XMBWDFGMSWQBCA-UHFFFAOYSA-N,7
-314,&gt; 4.1,"",C,53,538,53,hypoiodous acid,HOI,"",14332-21-9,GEOVEUCEIQCBKH-UHFFFAOYSA-N,7
+314, 4.1,"",C,53,538,53,hypoiodous acid,HOI,"",14332-21-9,GEOVEUCEIQCBKH-UHFFFAOYSA-N,7
 315,"","",E,53,694,53,hypoiodous acid,HOI,"",14332-21-9,GEOVEUCEIQCBKH-UHFFFAOYSA-N,7
 316,1.1,"",T,54,717,54,iodine chloride,ICl,"",7790-99-0,QZRGKCOWNLSUDK-UHFFFAOYSA-N,7
 317,2.4*10**-1,"",T,55,717,55,iodine bromide,IBr,"",7789-33-5,CBEQRNSPHCCXSH-UHFFFAOYSA-N,7
@@ -350,7 +350,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 347,1.5*10**-2,2900,?,57,188,57,sulfur dioxide,SO<sub>2</sub>,"",7446-09-5,RAHZWNYVWXNFOC-UHFFFAOYSA-N,8
 348,1.2*10**-2,3100,?,57,636,57,sulfur dioxide,SO<sub>2</sub>,"",7446-09-5,RAHZWNYVWXNFOC-UHFFFAOYSA-N,8
 349,1.2*10**-2,3100,?,57,327,57,sulfur dioxide,SO<sub>2</sub>,"",7446-09-5,RAHZWNYVWXNFOC-UHFFFAOYSA-N,8
-350,&#8734;,"",E,58,599,58,sulfur trioxide,SO<sub>3</sub>,"",7446-11-9,AKEJUJNQAAGONA-UHFFFAOYSA-N,8
+350,,"",E,58,599,58,sulfur trioxide,SO<sub>3</sub>,"",7446-11-9,AKEJUJNQAAGONA-UHFFFAOYSA-N,8
 351,"","",M,59,484,59,sulfuric acid,H<sub>2</sub>SO<sub>4</sub>,"",7664-93-9,QAOWNCQODCNURD-UHFFFAOYSA-N,8
 352,"","",M,59,39,59,sulfuric acid,H<sub>2</sub>SO<sub>4</sub>,"",7664-93-9,QAOWNCQODCNURD-UHFFFAOYSA-N,8
 353,"","",M,59,275,59,sulfuric acid,H<sub>2</sub>SO<sub>4</sub>,"",7664-93-9,QAOWNCQODCNURD-UHFFFAOYSA-N,8
@@ -3856,7 +3856,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 3855,6.4,7700,M,796,232,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
 3856,3.0*10**1,5900,M,796,299,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
 3857,1.9*10**1,"",M,796,643,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
-3858,&gt; 4.2,"",M,796,18,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
+3858, 4.2,"",M,796,18,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
 3859,8.1*10**1,7400,M,796,685,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
 3860,4.2,"",M,796,307,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
 3861,1.6*10**1,6000,M,796,202,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
@@ -3887,7 +3887,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 3886,9.9,"",Q,796,528,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
 3887,"",5400,?,796,409,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
 3888,1.6*10**1,"",?,796,9,796,hydroxybenzene,C<sub>6</sub>H<sub>5</sub>OH,phenol,108-95-2,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,19
-3889,&gt; 3.7*10**1,"",M,797,18,797,(hydroxymethyl)-benzene,C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>OH,benzyl alcohol,100-51-6,WVDDGKGOMKODPV-UHFFFAOYSA-N,19
+3889, 3.7*10**1,"",M,797,18,797,(hydroxymethyl)-benzene,C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>OH,benzyl alcohol,100-51-6,WVDDGKGOMKODPV-UHFFFAOYSA-N,19
 3890,6.2*10**-2,"",V,797,478,797,(hydroxymethyl)-benzene,C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>OH,benzyl alcohol,100-51-6,WVDDGKGOMKODPV-UHFFFAOYSA-N,19
 3891,6.2*10**-2,"",V,797,475,797,(hydroxymethyl)-benzene,C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>OH,benzyl alcohol,100-51-6,WVDDGKGOMKODPV-UHFFFAOYSA-N,19
 3892,2.9*10**1,"",R,797,10,797,(hydroxymethyl)-benzene,C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>OH,benzyl alcohol,100-51-6,WVDDGKGOMKODPV-UHFFFAOYSA-N,19
@@ -3935,7 +3935,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 3934,1.4*10**1,"",?,799,771,799,1-hydroxy-3-methylbenzene,HOC<sub>6</sub>H<sub>4</sub>CH<sub>3</sub>,3-cresol; m-cresol,108-39-4,RLSSMJSEOOYNOY-UHFFFAOYSA-N,19
 3935,4.3,"",?,799,9,799,1-hydroxy-3-methylbenzene,HOC<sub>6</sub>H<sub>4</sub>CH<sub>3</sub>,3-cresol; m-cresol,108-39-4,RLSSMJSEOOYNOY-UHFFFAOYSA-N,19
 3936,1.0*10**1,9300,M,800,232,800,1-hydroxy-4-methylbenzene,HOC<sub>6</sub>H<sub>4</sub>CH<sub>3</sub>,4-cresol; p-cresol,106-44-5,IWDCLRJOBJJRNH-UHFFFAOYSA-N,19
-3937,&gt; 2.9,"",M,800,18,800,1-hydroxy-4-methylbenzene,HOC<sub>6</sub>H<sub>4</sub>CH<sub>3</sub>,4-cresol; p-cresol,106-44-5,IWDCLRJOBJJRNH-UHFFFAOYSA-N,19
+3937, 2.9,"",M,800,18,800,1-hydroxy-4-methylbenzene,HOC<sub>6</sub>H<sub>4</sub>CH<sub>3</sub>,4-cresol; p-cresol,106-44-5,IWDCLRJOBJJRNH-UHFFFAOYSA-N,19
 3938,1.3*10**1,6100,M,800,202,800,1-hydroxy-4-methylbenzene,HOC<sub>6</sub>H<sub>4</sub>CH<sub>3</sub>,4-cresol; p-cresol,106-44-5,IWDCLRJOBJJRNH-UHFFFAOYSA-N,19
 3939,1.3*10**1,"",M,800,699,800,1-hydroxy-4-methylbenzene,HOC<sub>6</sub>H<sub>4</sub>CH<sub>3</sub>,4-cresol; p-cresol,106-44-5,IWDCLRJOBJJRNH-UHFFFAOYSA-N,19
 3940,1.3*10**1,7200,M,800,546,800,1-hydroxy-4-methylbenzene,HOC<sub>6</sub>H<sub>4</sub>CH<sub>3</sub>,4-cresol; p-cresol,106-44-5,IWDCLRJOBJJRNH-UHFFFAOYSA-N,19
@@ -4078,18 +4078,18 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 4077,2.9*10**-3,"",V,831,778,831,"2,6-bis(1,1-dimethylethyl)-4-methylphenol",C<sub>15</sub>H<sub>24</sub>O,butylated hydroxytoluene; BHT,128-37-0,NLZUEZXRPGMBCV-UHFFFAOYSA-N,19
 4078,2.9,8700,M,832,765,832,"4-(3',5'-dimethyl-3'-heptyl)-phenol(+)",C<sub>15</sub>H<sub>24</sub>O,"",_CAS-33,inchikey,19
 4079,3.3,8600,M,833,765,833,"4-(3',5'-dimethyl-3'-heptyl)-phenol(-)",C<sub>15</sub>H<sub>24</sub>O,"",_CAS-34,inchikey,19
-4080,&gt; 3.7*10**1,"",M,834,18,834,2-phenylethanol,C<sub>8</sub>H<sub>10</sub>O,"",60-12-8,WRMNZCZEMHIOCP-UHFFFAOYSA-N,19
+4080, 3.7*10**1,"",M,834,18,834,2-phenylethanol,C<sub>8</sub>H<sub>10</sub>O,"",60-12-8,WRMNZCZEMHIOCP-UHFFFAOYSA-N,19
 4081,6.6*10**1,"",V,834,340,834,2-phenylethanol,C<sub>8</sub>H<sub>10</sub>O,"",60-12-8,WRMNZCZEMHIOCP-UHFFFAOYSA-N,19
 4082,3.9*10**1,"",R,834,10,834,2-phenylethanol,C<sub>8</sub>H<sub>10</sub>O,"",60-12-8,WRMNZCZEMHIOCP-UHFFFAOYSA-N,19
 4083,1.9*10**1,"",Q,834,320,834,2-phenylethanol,C<sub>8</sub>H<sub>10</sub>O,"",60-12-8,WRMNZCZEMHIOCP-UHFFFAOYSA-N,19
 4084,2.4*10**-1,"",Q,834,220,834,2-phenylethanol,C<sub>8</sub>H<sub>10</sub>O,"",60-12-8,WRMNZCZEMHIOCP-UHFFFAOYSA-N,19
 4085,2.4*10**-1,"",Q,834,316,834,2-phenylethanol,C<sub>8</sub>H<sub>10</sub>O,"",60-12-8,WRMNZCZEMHIOCP-UHFFFAOYSA-N,19
 4086,5.3*10**1,"",Q,834,527,834,2-phenylethanol,C<sub>8</sub>H<sub>10</sub>O,"",60-12-8,WRMNZCZEMHIOCP-UHFFFAOYSA-N,19
-4087,&gt; 1.8*10**2,"",M,835,18,835,3-phenyl-1-propanol,C<sub>9</sub>H<sub>12</sub>O,"",122-97-4,VAJVDSVGBWFCLW-UHFFFAOYSA-N,19
+4087, 1.8*10**2,"",M,835,18,835,3-phenyl-1-propanol,C<sub>9</sub>H<sub>12</sub>O,"",122-97-4,VAJVDSVGBWFCLW-UHFFFAOYSA-N,19
 4088,4.8*10**1,"",R,835,10,835,3-phenyl-1-propanol,C<sub>9</sub>H<sub>12</sub>O,"",122-97-4,VAJVDSVGBWFCLW-UHFFFAOYSA-N,19
 4089,1.4*10**1,"",Q,835,320,835,3-phenyl-1-propanol,C<sub>9</sub>H<sub>12</sub>O,"",122-97-4,VAJVDSVGBWFCLW-UHFFFAOYSA-N,19
 4090,4.2*10**1,"",Q,835,527,835,3-phenyl-1-propanol,C<sub>9</sub>H<sub>12</sub>O,"",122-97-4,VAJVDSVGBWFCLW-UHFFFAOYSA-N,19
-4091,&gt; 6.7,"",M,836,18,836,4-phenyl-1-butanol,C<sub>10</sub>H<sub>14</sub>O,"",3360-41-6,LDZLXQFDGRCELX-UHFFFAOYSA-N,19
+4091, 6.7,"",M,836,18,836,4-phenyl-1-butanol,C<sub>10</sub>H<sub>14</sub>O,"",3360-41-6,LDZLXQFDGRCELX-UHFFFAOYSA-N,19
 4092,1.2*10**1,"",Q,836,320,836,4-phenyl-1-butanol,C<sub>10</sub>H<sub>14</sub>O,"",3360-41-6,LDZLXQFDGRCELX-UHFFFAOYSA-N,19
 4093,1.6*10**2,"",V,837,340,837,1-naphthalenol,C<sub>10</sub>H<sub>8</sub>O,1-naphthol,90-15-3,KJCVRFUGPWSIIH-UHFFFAOYSA-N,19
 4094,2.9*10**1,"",V,837,478,837,1-naphthalenol,C<sub>10</sub>H<sub>8</sub>O,1-naphthol,90-15-3,KJCVRFUGPWSIIH-UHFFFAOYSA-N,19
@@ -4138,11 +4138,11 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 4137,4.7*10**6,11000,V,848,170,848,"1,2,3-propanetriol",C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>,glycerol,56-81-5,PEDCQBHIVMGVHV-UHFFFAOYSA-N,20
 4138,5.0*10**6,"",V,848,345,848,"1,2,3-propanetriol",C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>,glycerol,56-81-5,PEDCQBHIVMGVHV-UHFFFAOYSA-N,20
 4139,"","",E,848,616,848,"1,2,3-propanetriol",C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>,glycerol,56-81-5,PEDCQBHIVMGVHV-UHFFFAOYSA-N,20
-4140,&gt; 3.4*10**2,"",M,849,18,849,"1,2-butanediol",C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>,"",584-03-2,BMRWNKZVCUKKSR-UHFFFAOYSA-N,20
+4140, 3.4*10**2,"",M,849,18,849,"1,2-butanediol",C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>,"",584-03-2,BMRWNKZVCUKKSR-UHFFFAOYSA-N,20
 4141,2.1*10**3,9900,V,849,170,849,"1,2-butanediol",C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>,"",584-03-2,BMRWNKZVCUKKSR-UHFFFAOYSA-N,20
 4142,7.0*10**3,10000,V,850,170,850,"1,3-butanediol",C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>,"",107-88-0,PUPZLCDOIYMWBV-UHFFFAOYSA-N,20
 4143,4.9*10**4,"",E,850,616,850,"1,3-butanediol",C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>,"",107-88-0,PUPZLCDOIYMWBV-UHFFFAOYSA-N,20
-4144,&gt; 9.0*10**2,"",M,851,18,851,"1,4-butanediol",C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>,"",110-63-4,WERYXYBDKMZEQL-UHFFFAOYSA-N,20
+4144, 9.0*10**2,"",M,851,18,851,"1,4-butanediol",C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>,"",110-63-4,WERYXYBDKMZEQL-UHFFFAOYSA-N,20
 4145,7.6*10**3,"",V,851,340,851,"1,4-butanediol",C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>,"",110-63-4,WERYXYBDKMZEQL-UHFFFAOYSA-N,20
 4146,3.5*10**4,11000,V,851,170,851,"1,4-butanediol",C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>,"",110-63-4,WERYXYBDKMZEQL-UHFFFAOYSA-N,20
 4147,8.0*10**3,"",Q,851,320,851,"1,4-butanediol",C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>,"",110-63-4,WERYXYBDKMZEQL-UHFFFAOYSA-N,20
@@ -4208,8 +4208,8 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 4207,4.7*10**1,"",Q,892,789,892,"2,5-dimethyl-2,5-hexanediol",C<sub>8</sub>H<sub>18</sub>O<sub>2</sub>,"",110-03-2,ZWNMRZQYWRLGMM-UHFFFAOYSA-N,20
 4208,"","",V,893,170,893,"1,9-nonanediol",C<sub>9</sub>H<sub>20</sub>O<sub>2</sub>,"",3937-56-2,ALVZNPYWJMLXKV-UHFFFAOYSA-N,20
 4209,"","",V,894,170,894,"1,10-decanediol",C<sub>10</sub>H<sub>22</sub>O<sub>2</sub>,"",112-47-0,FOTKYAAJKYLFFN-UHFFFAOYSA-N,20
-4210,&gt; 3.4*10**2,"",M,895,18,895,"2-butene-1,4-diol",C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>,"",110-64-5,ORTVZLZNOYNASJ-UHFFFAOYSA-N,20
-4211,&gt; 2.0*10**3,"",M,896,18,896,"2-butyne-1,4-diol",C<sub>4</sub>H<sub>6</sub>O<sub>2</sub>,"1,4-dihydroxy-2-butyne",110-65-6,DLDJFQGPPSQZKI-UHFFFAOYSA-N,20
+4210, 3.4*10**2,"",M,895,18,895,"2-butene-1,4-diol",C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>,"",110-64-5,ORTVZLZNOYNASJ-UHFFFAOYSA-N,20
+4211, 2.0*10**3,"",M,896,18,896,"2-butyne-1,4-diol",C<sub>4</sub>H<sub>6</sub>O<sub>2</sub>,"1,4-dihydroxy-2-butyne",110-65-6,DLDJFQGPPSQZKI-UHFFFAOYSA-N,20
 4212,5.8*10**5,"",V,896,340,896,"2-butyne-1,4-diol",C<sub>4</sub>H<sub>6</sub>O<sub>2</sub>,"1,4-dihydroxy-2-butyne",110-65-6,DLDJFQGPPSQZKI-UHFFFAOYSA-N,20
 4213,8.2*10**3,"",V,897,340,897,"1,2-dihydroxybenzene",C<sub>6</sub>H<sub>4</sub>(OH)<sub>2</sub>,pyrocatechol,120-80-9,YCIMNLLNPGFGHC-UHFFFAOYSA-N,20
 4214,1.8*10**3,"",V,897,478,897,"1,2-dihydroxybenzene",C<sub>6</sub>H<sub>4</sub>(OH)<sub>2</sub>,pyrocatechol,120-80-9,YCIMNLLNPGFGHC-UHFFFAOYSA-N,20
@@ -4278,7 +4278,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 4277,4.7*10**3,1500,M,910,792,910,hydroxymethyl hydroperoxide,HOCH<sub>2</sub>OOH,HMHP; HMP,15932-89-5,NEZWFWIACBUQMN-UHFFFAOYSA-N,21
 4278,"",8600,Q,910,409,910,hydroxymethyl hydroperoxide,HOCH<sub>2</sub>OOH,HMHP; HMP,15932-89-5,NEZWFWIACBUQMN-UHFFFAOYSA-N,21
 4279,"",10000,?,910,409,910,hydroxymethyl hydroperoxide,HOCH<sub>2</sub>OOH,HMHP; HMP,15932-89-5,NEZWFWIACBUQMN-UHFFFAOYSA-N,21
-4280,&gt; 9.9*10**4,"",M,911,672,911,bis-(hydroxymethyl)-peroxide,HOCH<sub>2</sub>OOCH<sub>2</sub>OH,BHMP,17088-73-2,JLJXMZMKMRQOLN-UHFFFAOYSA-N,21
+4280, 9.9*10**4,"",M,911,672,911,bis-(hydroxymethyl)-peroxide,HOCH<sub>2</sub>OOCH<sub>2</sub>OH,BHMP,17088-73-2,JLJXMZMKMRQOLN-UHFFFAOYSA-N,21
 4281,4.4*10**3,8400,M,911,792,911,bis-(hydroxymethyl)-peroxide,HOCH<sub>2</sub>OOCH<sub>2</sub>OH,BHMP,17088-73-2,JLJXMZMKMRQOLN-UHFFFAOYSA-N,21
 4282,"",9400,Q,911,409,911,bis-(hydroxymethyl)-peroxide,HOCH<sub>2</sub>OOCH<sub>2</sub>OH,BHMP,17088-73-2,JLJXMZMKMRQOLN-UHFFFAOYSA-N,21
 4283,"",8500,?,911,409,911,bis-(hydroxymethyl)-peroxide,HOCH<sub>2</sub>OOCH<sub>2</sub>OH,BHMP,17088-73-2,JLJXMZMKMRQOLN-UHFFFAOYSA-N,21
@@ -4292,9 +4292,9 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 4291,"","",E,916,436,916,methylperoxy radical,CH<sub>3</sub>OO,"",2143-58-0,WTFNSXYULBQCQV-UHFFFAOYSA-N,21
 4292,5.9*10**-2,5600,E,916,354,916,methylperoxy radical,CH<sub>3</sub>OO,"",2143-58-0,WTFNSXYULBQCQV-UHFFFAOYSA-N,21
 4293,7.9*10**2,8200,E,917,438,917,hydroxymethylperoxy radical,HOCH<sub>2</sub>OO,"",27828-51-9,inchikey,21
-4294,&lt; 9.9*10**-4,"",L,918,603,918,peroxyacetyl radical,CH<sub>3</sub>C(O)O<sub>2</sub>,"",36709-10-1,ZBQKPDHUDKSCRS-UHFFFAOYSA-N,21
-4295,&lt; 9.9*10**-4,"",L,918,602,918,peroxyacetyl radical,CH<sub>3</sub>C(O)O<sub>2</sub>,"",36709-10-1,ZBQKPDHUDKSCRS-UHFFFAOYSA-N,21
-4296,&lt; 9.9*10**-4,"",M,918,710,918,peroxyacetyl radical,CH<sub>3</sub>C(O)O<sub>2</sub>,"",36709-10-1,ZBQKPDHUDKSCRS-UHFFFAOYSA-N,21
+4294, 9.9*10**-4,"",L,918,603,918,peroxyacetyl radical,CH<sub>3</sub>C(O)O<sub>2</sub>,"",36709-10-1,ZBQKPDHUDKSCRS-UHFFFAOYSA-N,21
+4295, 9.9*10**-4,"",L,918,602,918,peroxyacetyl radical,CH<sub>3</sub>C(O)O<sub>2</sub>,"",36709-10-1,ZBQKPDHUDKSCRS-UHFFFAOYSA-N,21
+4296, 9.9*10**-4,"",M,918,710,918,peroxyacetyl radical,CH<sub>3</sub>C(O)O<sub>2</sub>,"",36709-10-1,ZBQKPDHUDKSCRS-UHFFFAOYSA-N,21
 4297,3.2*10**1,6800,L,919,729,919,methanal,HCHO,formaldehyde,50-00-0,WSFSSNUMVMOOMR-UHFFFAOYSA-N,22
 4298,3.2*10**1,7100,L,919,603,919,methanal,HCHO,formaldehyde,50-00-0,WSFSSNUMVMOOMR-UHFFFAOYSA-N,22
 4299,3.2*10**1,7100,L,919,602,919,methanal,HCHO,formaldehyde,50-00-0,WSFSSNUMVMOOMR-UHFFFAOYSA-N,22
@@ -4579,7 +4579,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 4578,"","",M,960,715,960,ethanedial,OHCCHO,glyoxal,107-22-2,LEQAOMBKQFMDFZ-UHFFFAOYSA-N,22
 4579,2.6*10**5,"",M,960,404,960,ethanedial,OHCCHO,glyoxal,107-22-2,LEQAOMBKQFMDFZ-UHFFFAOYSA-N,22
 4580,3.6*10**3,"",M,960,793,960,ethanedial,OHCCHO,glyoxal,107-22-2,LEQAOMBKQFMDFZ-UHFFFAOYSA-N,22
-4581,&gt; 3.0*10**3,"",M,960,74,960,ethanedial,OHCCHO,glyoxal,107-22-2,LEQAOMBKQFMDFZ-UHFFFAOYSA-N,22
+4581, 3.0*10**3,"",M,960,74,960,ethanedial,OHCCHO,glyoxal,107-22-2,LEQAOMBKQFMDFZ-UHFFFAOYSA-N,22
 4582,1.4*10**4,"",C,960,428,960,ethanedial,OHCCHO,glyoxal,107-22-2,LEQAOMBKQFMDFZ-UHFFFAOYSA-N,22
 4583,3.0*10**2,9200,M,961,532,961,pentanedial,OHC(CH<sub>2</sub>)<sub>3</sub>CHO,glutaraldehyde,111-30-8,SXRSQZLOMIGNAQ-UHFFFAOYSA-N,22
 4584,4.1*10**2,"",Q,961,340,961,pentanedial,OHC(CH<sub>2</sub>)<sub>3</sub>CHO,glutaraldehyde,111-30-8,SXRSQZLOMIGNAQ-UHFFFAOYSA-N,22
@@ -5904,7 +5904,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 5903,7.8,"",V,1260,475,1260,butyl benzyl phthalate,C<sub>19</sub>H<sub>20</sub>O<sub>4</sub>,"",85-68-7,IRIAEXORFWYRCZ-UHFFFAOYSA-N,25
 5904,9.6,"",C,1260,591,1260,butyl benzyl phthalate,C<sub>19</sub>H<sub>20</sub>O<sub>4</sub>,"",85-68-7,IRIAEXORFWYRCZ-UHFFFAOYSA-N,25
 5905,3.2*10**1,"",Q,1260,595,1260,butyl benzyl phthalate,C<sub>19</sub>H<sub>20</sub>O<sub>4</sub>,"",85-68-7,IRIAEXORFWYRCZ-UHFFFAOYSA-N,25
-5906,&gt; 9.9,"",E,1260,554,1260,butyl benzyl phthalate,C<sub>19</sub>H<sub>20</sub>O<sub>4</sub>,"",85-68-7,IRIAEXORFWYRCZ-UHFFFAOYSA-N,25
+5906, 9.9,"",E,1260,554,1260,butyl benzyl phthalate,C<sub>19</sub>H<sub>20</sub>O<sub>4</sub>,"",85-68-7,IRIAEXORFWYRCZ-UHFFFAOYSA-N,25
 5907,3.8*10**-1,"",V,1261,340,1261,dihexyl phthalate,C<sub>20</sub>H<sub>30</sub>O<sub>4</sub>,"",84-75-3,KCXZNSGUUQJJTR-UHFFFAOYSA-N,25
 5908,1.4,"",V,1261,176,1261,dihexyl phthalate,C<sub>20</sub>H<sub>30</sub>O<sub>4</sub>,"",84-75-3,KCXZNSGUUQJJTR-UHFFFAOYSA-N,25
 5909,2.2*10**-1,"",V,1261,673,1261,dihexyl phthalate,C<sub>20</sub>H<sub>30</sub>O<sub>4</sub>,"",84-75-3,KCXZNSGUUQJJTR-UHFFFAOYSA-N,25
@@ -5930,7 +5930,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 5929,1.8,"",V,1267,753,1267,dioctyl phthalate,C<sub>24</sub>H<sub>38</sub>O<sub>4</sub>,"",117-84-0,MQIUGAXCHLFZKX-UHFFFAOYSA-N,25
 5930,3.4*10**1,"",C,1267,591,1267,dioctyl phthalate,C<sub>24</sub>H<sub>38</sub>O<sub>4</sub>,"",117-84-0,MQIUGAXCHLFZKX-UHFFFAOYSA-N,25
 5931,6.4,"",Q,1267,595,1267,dioctyl phthalate,C<sub>24</sub>H<sub>38</sub>O<sub>4</sub>,"",117-84-0,MQIUGAXCHLFZKX-UHFFFAOYSA-N,25
-5932,&gt; 9.9,"",E,1267,554,1267,dioctyl phthalate,C<sub>24</sub>H<sub>38</sub>O<sub>4</sub>,"",117-84-0,MQIUGAXCHLFZKX-UHFFFAOYSA-N,25
+5932, 9.9,"",E,1267,554,1267,dioctyl phthalate,C<sub>24</sub>H<sub>38</sub>O<sub>4</sub>,"",117-84-0,MQIUGAXCHLFZKX-UHFFFAOYSA-N,25
 5933,3.2*10**-1,"",V,1268,340,1268,diisooctyl phthalate,C<sub>24</sub>H<sub>38</sub>O<sub>4</sub>,"",27554-26-3,IJFPVINAQGWBRJ-UHFFFAOYSA-N,25
 5934,2.5*10**-1,"",V,1268,176,1268,diisooctyl phthalate,C<sub>24</sub>H<sub>38</sub>O<sub>4</sub>,"",27554-26-3,IJFPVINAQGWBRJ-UHFFFAOYSA-N,25
 5935,1.5*10**2,"",Q,1268,595,1268,diisooctyl phthalate,C<sub>24</sub>H<sub>38</sub>O<sub>4</sub>,"",27554-26-3,IJFPVINAQGWBRJ-UHFFFAOYSA-N,25
@@ -6666,7 +6666,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 6665,4.5*10**2,"",V,1586,340,1586,pyrethrin II,C<sub>22</sub>H<sub>28</sub>O<sub>5</sub>,"",121-29-9,VJFUPGQZSXIULQ-VKTMSVCMSA-N,29
 6666,2.7*10**2,"",Q,1587,340,1587,methylprednisolone,C<sub>22</sub>H<sub>30</sub>O<sub>5</sub>,"",83-43-2,VHRSUDSXCMQTMA-UHFFFAOYSA-N,29
 6667,7.6*10**2,"",Q,1588,340,1588,medroxyprogesterone,C<sub>22</sub>H<sub>32</sub>O<sub>3</sub>,"",520-85-4,FRQMUZJSZHZSGN-HBNHAYAOSA-N,29
-6668,&gt; 2.3*10**10,"",?,1589,466,1589,dimethirimol,C<sub>23</sub>H<sub>24</sub>O<sub>5</sub>,"",5221-53-4,VNKCZJKGJAEOCW-WXUKJITCSA-N,29
+6668, 2.3*10**10,"",?,1589,466,1589,dimethirimol,C<sub>23</sub>H<sub>24</sub>O<sub>5</sub>,"",5221-53-4,VNKCZJKGJAEOCW-WXUKJITCSA-N,29
 6669,8.8*10**7,"",Q,1590,340,1590,rotenone,C<sub>23</sub>H<sub>22</sub>O<sub>6</sub>,"",83-79-4,JUVIOZPCNVVQFO-UHFFFAOYSA-N,29
 6670,1.5,"",X,1591,467,1591,phenothrin,C<sub>23</sub>H<sub>26</sub>O<sub>3</sub>,"",26002-80-2,SBNFWQZLDJGRLK-UHFFFAOYSA-N,29
 6671,1.8*10**-2,"",V,1592,340,1592,spiromesifen,C<sub>23</sub>H<sub>30</sub>O<sub>4</sub>,"",283594-90-1,GOLXNESZZPUPJE-UHFFFAOYSA-N,29
@@ -6861,7 +6861,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 6860,4.0*10**-5,"",V,1670,475,1670,tributylamine,C<sub>12</sub>H<sub>27</sub>N,"",102-82-9,IMFACGCPASFAPR-UHFFFAOYSA-N,30
 6861,"",8700,Q,1670,409,1670,tributylamine,C<sub>12</sub>H<sub>27</sub>N,"",102-82-9,IMFACGCPASFAPR-UHFFFAOYSA-N,30
 6862,"",7500,?,1670,409,1670,tributylamine,C<sub>12</sub>H<sub>27</sub>N,"",102-82-9,IMFACGCPASFAPR-UHFFFAOYSA-N,30
-6863,&gt; 4.0,"",M,1671,18,1671,"N,N-dimethyl-1-dodecanamine",C<sub>14</sub>H<sub>31</sub>N,"",112-18-5,YWFWDNVOPHGWMX-UHFFFAOYSA-N,30
+6863, 4.0,"",M,1671,18,1671,"N,N-dimethyl-1-dodecanamine",C<sub>14</sub>H<sub>31</sub>N,"",112-18-5,YWFWDNVOPHGWMX-UHFFFAOYSA-N,30
 6864,2.0*10**-3,"",Q,1671,340,1671,"N,N-dimethyl-1-dodecanamine",C<sub>14</sub>H<sub>31</sub>N,"",112-18-5,YWFWDNVOPHGWMX-UHFFFAOYSA-N,30
 6865,5.8*10**3,"",M,1672,742,1672,ethylenediamine,H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>,"",107-15-3,PIICEJLVQHRZGT-UHFFFAOYSA-N,30
 6866,1.5*10**2,9200,T,1672,119,1672,ethylenediamine,H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>,"",107-15-3,PIICEJLVQHRZGT-UHFFFAOYSA-N,30
@@ -7379,7 +7379,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 7378,1.1*10**8,"",V,1835,340,1835,benzyladenine,C<sub>12</sub>H<sub>11</sub>N<sub>5</sub>,"",1214-39-7,NWBJYWHLCVSVIJ-UHFFFAOYSA-N,31
 7379,2.5*10**7,"",Q,1836,340,1836,MEIQ,C<sub>12</sub>H<sub>12</sub>N<sub>4</sub>,"2-amino-3,4-dimethylimidazo[4,5-f]quinoxaline",77094-11-2,GMGWMIJIGUYNAY-UHFFFAOYSA-N,31
 7380,3.9,"",Q,1837,340,1837,pyrimethanil,C<sub>12</sub>H<sub>13</sub>N<sub>3</sub>,"",53112-28-0,ZLIBICFPKPWGIZ-UHFFFAOYSA-N,31
-7381,&gt; 2.4*10**8,"",V,1838,340,1838,paraquat,C<sub>12</sub>H<sub>14</sub>N<sub>2</sub>,"",4685-14-7,INFDPOAKFNIJBF-UHFFFAOYSA-N,31
+7381, 2.4*10**8,"",V,1838,340,1838,paraquat,C<sub>12</sub>H<sub>14</sub>N<sub>2</sub>,"",4685-14-7,INFDPOAKFNIJBF-UHFFFAOYSA-N,31
 7382,1.5*10**4,"",Q,1839,340,1839,"N,N-dimethyltryptamine",C<sub>12</sub>H<sub>16</sub>N<sub>2</sub>,"",61-50-7,DMULVCHRPCFFGV-UHFFFAOYSA-N,31
 7383,3.5*10**7,"",Q,1840,340,1840,PHIP,C<sub>13</sub>H<sub>12</sub>N<sub>4</sub>,"2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine",105650-23-5,UQVKZNNCIHJZLS-UHFFFAOYSA-N,31
 7384,1.4*10**6,"",Q,1841,340,1841,"N,N'-diphenylguanidine",C<sub>13</sub>H<sub>13</sub>N<sub>3</sub>,"",102-06-7,OWRCNXZUPFZXOS-UHFFFAOYSA-N,31
@@ -7548,8 +7548,8 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 7547,3.0*10**-1,"",C,1890,475,1890,N-nitrosodimethylamine,C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O,"",62-75-9,UMFJAHHVKNCGLG-UHFFFAOYSA-N,33
 7548,9.5,"",Q,1890,320,1890,N-nitrosodimethylamine,C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O,"",62-75-9,UMFJAHHVKNCGLG-UHFFFAOYSA-N,33
 7549,3.0*10**-1,"",?,1890,479,1890,N-nitrosodimethylamine,C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O,"",62-75-9,UMFJAHHVKNCGLG-UHFFFAOYSA-N,33
-7550,&gt; 1.9*10**2,"",M,1891,505,1891,methylnitrosourea,C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>,"",684-93-5,ZRKWMRDKSOPRRS-UHFFFAOYSA-N,33
-7551,&gt; 1.9*10**2,"",M,1892,505,1892,nitrosoazetidine,C<sub>3</sub>H<sub>6</sub>N<sub>2</sub>O,"",15216-10-1,SNKTZBNDUVWOAZ-UHFFFAOYSA-N,33
+7550, 1.9*10**2,"",M,1891,505,1891,methylnitrosourea,C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>,"",684-93-5,ZRKWMRDKSOPRRS-UHFFFAOYSA-N,33
+7551, 1.9*10**2,"",M,1892,505,1892,nitrosoazetidine,C<sub>3</sub>H<sub>6</sub>N<sub>2</sub>O,"",15216-10-1,SNKTZBNDUVWOAZ-UHFFFAOYSA-N,33
 7552,8.6*10**-2,"",M,1893,505,1893,methylnitrosoacetamide,C<sub>3</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub>,"",7417-67-6,FFLFWNRFMZRFKU-UHFFFAOYSA-N,33
 7553,2.6*10**-1,"",M,1894,505,1894,ethylnitrosocyanamide,C<sub>3</sub>H<sub>5</sub>N<sub>3</sub>O,"",38434-77-4,LMIMSGCBKHFTDY-UHFFFAOYSA-N,33
 7554,5.5*10**3,"",V,1895,340,1895,2-propenamide,C<sub>3</sub>H<sub>5</sub>NO,acrylamide,79-06-1,HRPVXLWXLXDGHG-UHFFFAOYSA-N,33
@@ -7575,7 +7575,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 7574,4.2*10**4,"",Q,1903,340,1903,1-amino-2-propanol,C<sub>3</sub>H<sub>9</sub>NO,"",78-96-6,HXKKHQJGJAFBHI-UHFFFAOYSA-N,33
 7575,3.9*10**-1,"",M,1904,505,1904,N-nitroso-N-methylurethane,C<sub>4</sub>H<sub>8</sub>N<sub>2</sub>O<sub>3</sub>,N-nitroso-N-methylurethane,615-53-2,CAUBWLYZCDDYEF-UHFFFAOYSA-N,33
 7576,1.8,"",V,1904,340,1904,N-nitroso-N-methylurethane,C<sub>4</sub>H<sub>8</sub>N<sub>2</sub>O<sub>3</sub>,N-nitroso-N-methylurethane,615-53-2,CAUBWLYZCDDYEF-UHFFFAOYSA-N,33
-7577,&gt; 1.9*10**2,"",M,1905,505,1905,dinitrosopiperazine,C<sub>4</sub>H<sub>8</sub>N<sub>4</sub>O<sub>2</sub>,"",140-79-4,WNSYEWGYAFFSSQ-UHFFFAOYSA-N,33
+7577, 1.9*10**2,"",M,1905,505,1905,dinitrosopiperazine,C<sub>4</sub>H<sub>8</sub>N<sub>4</sub>O<sub>2</sub>,"",140-79-4,WNSYEWGYAFFSSQ-UHFFFAOYSA-N,33
 7578,2.9*10**7,"",Q,1906,340,1906,2-amino-3(methylamino)propionic acid,C<sub>4</sub>H<sub>10</sub>N<sub>2</sub>O<sub>2</sub>,3-(methylamino)-(DL)-alanine,16676-91-8,UJVHVMNGOZXSOZ-UHFFFAOYSA-N,33
 7579,2.0*10**6,"",Q,1907,340,1907,N-nitrosodiethanolamine,C<sub>4</sub>H<sub>10</sub>N<sub>2</sub>O<sub>3</sub>,"",1116-54-7,YFCDLVPYFMHRQZ-UHFFFAOYSA-N,33
 7580,5.6,6300,M,1908,394,1908,N-nitrosodiethylamine,C<sub>4</sub>H<sub>10</sub>N<sub>2</sub>O,"",55-18-5,WBNQDOYYEUMPFS-UHFFFAOYSA-N,33
@@ -7600,7 +7600,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 7599,9.9*10**-1,"",M,1923,505,1923,ethylbutylnitrosamine,C<sub>6</sub>H<sub>14</sub>N<sub>2</sub>O,"",4549-44-4,ZGMCNGHHUQZNIH-UHFFFAOYSA-N,33
 7600,4.3*10**1,"",M,1924,505,1924,nitrosohexamethyleneimine,C<sub>6</sub>H<sub>12</sub>N<sub>2</sub>O,"",932-83-2,UZMVSVHUTOAPTD-UHFFFAOYSA-N,33
 7601,3.5*10**1,"",M,1925,505,1925,"2,6-dimethylnitrosomorpholine",C<sub>6</sub>H<sub>12</sub>N<sub>2</sub>O<sub>2</sub>,"",1456-28-6,DPYMAXOKJUBANR-UHFFFAOYSA-N,33
-7602,&gt; 1.9*10**2,"",M,1926,505,1926,"2,6-dimethyldinitrosopiperazine",C<sub>6</sub>H<sub>12</sub>N<sub>4</sub>O<sub>2</sub>,"",55380-34-2,JIWAGFGPBKDFQN-UHFFFAOYSA-N,33
+7602, 1.9*10**2,"",M,1926,505,1926,"2,6-dimethyldinitrosopiperazine",C<sub>6</sub>H<sub>12</sub>N<sub>4</sub>O<sub>2</sub>,"",55380-34-2,JIWAGFGPBKDFQN-UHFFFAOYSA-N,33
 7603,4.3*10**2,"",Q,1927,340,1927,N-(1-methylethyl)-2-propenamide,C<sub>6</sub>H<sub>11</sub>NO,N-isopropylacrylamide,2210-25-5,QNILTEGFHQSKFF-UHFFFAOYSA-N,33
 7604,2.7*10**3,"",M,1928,270,1928,N-butylacetamide,C<sub>6</sub>H<sub>13</sub>NO,"",1119-49-9,GYLDXXLJMRTVSS-UHFFFAOYSA-N,33
 7605,5.2*10**2,"",Q,1928,320,1928,N-butylacetamide,C<sub>6</sub>H<sub>13</sub>NO,"",1119-49-9,GYLDXXLJMRTVSS-UHFFFAOYSA-N,33
@@ -7698,7 +7698,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 7697,8.7*10**-3,"",V,1991,475,1991,N-nitrosodiphenylamine,C<sub>12</sub>H<sub>10</sub>N<sub>2</sub>O,"N,N-Diphenylnitrosamine",86-30-6,UBUCNCOMADRQHX-UHFFFAOYSA-N,33
 7698,1.5*10**-2,"",C,1991,475,1991,N-nitrosodiphenylamine,C<sub>12</sub>H<sub>10</sub>N<sub>2</sub>O,"N,N-Diphenylnitrosamine",86-30-6,UBUCNCOMADRQHX-UHFFFAOYSA-N,33
 7699,8.2,"",Q,1991,340,1991,N-nitrosodiphenylamine,C<sub>12</sub>H<sub>10</sub>N<sub>2</sub>O,"N,N-Diphenylnitrosamine",86-30-6,UBUCNCOMADRQHX-UHFFFAOYSA-N,33
-7700,&gt; 9.9*10**1,"",M,1992,465,1992,carbaryl,C<sub>12</sub>H<sub>11</sub>NO<sub>2</sub>,"",63-25-2,CVXBEEMKQHEXEN-UHFFFAOYSA-N,33
+7700, 9.9*10**1,"",M,1992,465,1992,carbaryl,C<sub>12</sub>H<sub>11</sub>NO<sub>2</sub>,"",63-25-2,CVXBEEMKQHEXEN-UHFFFAOYSA-N,33
 7701,3.6*10**3,"",M,1992,734,1992,carbaryl,C<sub>12</sub>H<sub>11</sub>NO<sub>2</sub>,"",63-25-2,CVXBEEMKQHEXEN-UHFFFAOYSA-N,33
 7702,2.2*10**4,"",V,1992,479,1992,carbaryl,C<sub>12</sub>H<sub>11</sub>NO<sub>2</sub>,"",63-25-2,CVXBEEMKQHEXEN-UHFFFAOYSA-N,33
 7703,2.3*10**3,"",V,1992,500,1992,carbaryl,C<sub>12</sub>H<sub>11</sub>NO<sub>2</sub>,"",63-25-2,CVXBEEMKQHEXEN-UHFFFAOYSA-N,33
@@ -7708,7 +7708,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 7707,1.4*10**3,"",Q,1992,320,1992,carbaryl,C<sub>12</sub>H<sub>11</sub>NO<sub>2</sub>,"",63-25-2,CVXBEEMKQHEXEN-UHFFFAOYSA-N,33
 7708,3.1*10**3,"",Q,1992,500,1992,carbaryl,C<sub>12</sub>H<sub>11</sub>NO<sub>2</sub>,"",63-25-2,CVXBEEMKQHEXEN-UHFFFAOYSA-N,33
 7709,6.6*10**5,"",Q,1993,340,1993,"4,4'-oxybisbenzenamine",C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>O,bis(4-aminophenyl) ether,101-80-4,HLBLWEWZXPIGSM-UHFFFAOYSA-N,33
-7710,&gt; 9.9*10**1,"",M,1994,465,1994,carbofuran,C<sub>12</sub>H<sub>15</sub>NO<sub>3</sub>,"",1563-66-2,DUEPRVBVGDRKAG-UHFFFAOYSA-N,33
+7710, 9.9*10**1,"",M,1994,465,1994,carbofuran,C<sub>12</sub>H<sub>15</sub>NO<sub>3</sub>,"",1563-66-2,DUEPRVBVGDRKAG-UHFFFAOYSA-N,33
 7711,2.2*10**4,"",V,1994,340,1994,carbofuran,C<sub>12</sub>H<sub>15</sub>NO<sub>3</sub>,"",1563-66-2,DUEPRVBVGDRKAG-UHFFFAOYSA-N,33
 7712,2.0*10**4,"",V,1994,479,1994,carbofuran,C<sub>12</sub>H<sub>15</sub>NO<sub>3</sub>,"",1563-66-2,DUEPRVBVGDRKAG-UHFFFAOYSA-N,33
 7713,2.0*10**3,"",V,1994,683,1994,carbofuran,C<sub>12</sub>H<sub>15</sub>NO<sub>3</sub>,"",1563-66-2,DUEPRVBVGDRKAG-UHFFFAOYSA-N,33
@@ -7758,7 +7758,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 7757,2.4*10**2,"",Q,2029,789,2029,"2,6-di-<i>tert</i>-butyl-4-(dimethylaminomethyl)phenol",C<sub>17</sub>H<sub>29</sub>NO,"",88-27-7,VMZVBRIIHDRYGK-UHFFFAOYSA-N,33
 7758,1.3,"",Q,2029,789,2029,"2,6-di-<i>tert</i>-butyl-4-(dimethylaminomethyl)phenol",C<sub>17</sub>H<sub>29</sub>NO,"",88-27-7,VMZVBRIIHDRYGK-UHFFFAOYSA-N,33
 7759,4.8*10**1,"",Q,2029,789,2029,"2,6-di-<i>tert</i>-butyl-4-(dimethylaminomethyl)phenol",C<sub>17</sub>H<sub>29</sub>NO,"",88-27-7,VMZVBRIIHDRYGK-UHFFFAOYSA-N,33
-7760,&gt; 2.3*10**10,"",?,2030,466,2030,naptalam,C<sub>18</sub>H<sub>13</sub>NO<sub>3</sub>,"",132-66-1,JXTHEWSKYLZVJC-UHFFFAOYSA-N,33
+7760, 2.3*10**10,"",?,2030,466,2030,naptalam,C<sub>18</sub>H<sub>13</sub>NO<sub>3</sub>,"",132-66-1,JXTHEWSKYLZVJC-UHFFFAOYSA-N,33
 7761,1.9*10**7,"",Q,2031,340,2031,citrus red 2,C<sub>18</sub>H<sub>16</sub>N<sub>2</sub>O<sub>3</sub>,"",6358-53-8,ULLJIFAIUSUJBP-ZZEZOPTASA-N,33
 7762,2.7*10**3,"",V,2032,340,2032,kresoxim-methyl,C<sub>18</sub>H<sub>19</sub>NO<sub>4</sub>,"",143390-89-0,ZOTBXTZVPHCKPN-UHFFFAOYSA-N,33
 7763,2.1*10**3,"",V,2033,340,2033,dinocap,C<sub>18</sub>H<sub>24</sub>N<sub>2</sub>O<sub>6</sub>,"",39300-45-3,RNDNTTTUTQAXII-GORDUTHDSA-N,33
@@ -7933,7 +7933,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 7932,6.2*10**15,"",Q,2139,340,2139,entecavir,C<sub>12</sub>H<sub>15</sub>N<sub>5</sub>O<sub>3</sub>,"",142217-69-4,QDGZDCVAUDNJFG-FXQIFTODSA-N,34
 7933,3.7*10**4,"",Q,2140,340,2140,metaxalone,C<sub>12</sub>H<sub>15</sub>NO<sub>3</sub>,"",1665-48-1,IMWZZHHPURKASS-UHFFFAOYSA-N,34
 7934,3.7*10**2,"",Q,2141,340,2141,phendimetrazine,C<sub>12</sub>H<sub>17</sub>NO,"",634-03-7,MFOCDFTXLCYLKU-UHFFFAOYSA-N,34
-7935,&gt; 9.9*10**1,"",M,2142,465,2142,hexazinone,C<sub>12</sub>H<sub>20</sub>N<sub>4</sub>O<sub>2</sub>,"",51235-04-2,CAWXEEYDBZRFPE-UHFFFAOYSA-N,34
+7935, 9.9*10**1,"",M,2142,465,2142,hexazinone,C<sub>12</sub>H<sub>20</sub>N<sub>4</sub>O<sub>2</sub>,"",51235-04-2,CAWXEEYDBZRFPE-UHFFFAOYSA-N,34
 7936,4.4*10**6,"",V,2142,340,2142,hexazinone,C<sub>12</sub>H<sub>20</sub>N<sub>4</sub>O<sub>2</sub>,"",51235-04-2,CAWXEEYDBZRFPE-UHFFFAOYSA-N,34
 7937,3.3*10**5,"",Q,2143,340,2143,picaridin,C<sub>12</sub>H<sub>23</sub>NO<sub>3</sub>,"",119515-38-7,QLHULAHOXSSASE-UHFFFAOYSA-N,34
 7938,5.4*10**10,"",Q,2144,340,2144,pyrinuron,C<sub>13</sub>H<sub>12</sub>N<sub>4</sub>O<sub>3</sub>,pyriminil,53558-25-1,CLKZWXHKFXZIMA-UHFFFAOYSA-N,34
@@ -13272,7 +13272,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 13271,9.1*10**1,"",V,3048,430,3048,"2-chloro-4-hydroxy-3,5-dimethoxybenzaldehyde",C<sub>9</sub>H<sub>9</sub>ClO<sub>4</sub>,2-chlorosyringaldehyde,76341-69-0,GRIHRCLOUQZXPD-UHFFFAOYSA-N,41
 13272,2.7*10**2,"",V,3049,430,3049,"2,6-dichloro-4-hydroxy-3,5-dimethoxybenzaldehyde",C<sub>9</sub>H<sub>8</sub>Cl<sub>2</sub>O<sub>4</sub>,"2,6-dichlorosyringaldehyde",76330-06-8,CTFRWEPMHUGVMM-UHFFFAOYSA-N,41
 13273,1.8,"",Q,3050,320,3050,"methyl 2,4-dichlorophenoxyethanoate",C<sub>9</sub>H<sub>8</sub>Cl<sub>2</sub>O<sub>3</sub>,"",1928-38-7,HWIGZMADSFQMOI-UHFFFAOYSA-N,41
-13274,&gt; 9.9*10**1,"",M,3051,465,3051,(2-methyl-4-chlorophenoxy)acetic acid,C<sub>9</sub>H<sub>9</sub>ClO<sub>3</sub>,MCPA,94-74-6,WHKUVVPPKQRRBV-UHFFFAOYSA-N,41
+13274, 9.9*10**1,"",M,3051,465,3051,(2-methyl-4-chlorophenoxy)acetic acid,C<sub>9</sub>H<sub>9</sub>ClO<sub>3</sub>,MCPA,94-74-6,WHKUVVPPKQRRBV-UHFFFAOYSA-N,41
 13275,4.0*10**4,"",V,3051,479,3051,(2-methyl-4-chlorophenoxy)acetic acid,C<sub>9</sub>H<sub>9</sub>ClO<sub>3</sub>,MCPA,94-74-6,WHKUVVPPKQRRBV-UHFFFAOYSA-N,41
 13276,9.9*10**3,"",V,3051,758,3051,(2-methyl-4-chlorophenoxy)acetic acid,C<sub>9</sub>H<sub>9</sub>ClO<sub>3</sub>,MCPA,94-74-6,WHKUVVPPKQRRBV-UHFFFAOYSA-N,41
 13277,3.7*10**3,"",V,3052,479,3052,"&#945;-(2,4-dichlorophenoxy)propionic acid",C<sub>9</sub>H<sub>8</sub>Cl<sub>2</sub>O<sub>3</sub>,dichloroprop,120-36-5,MZHCENGPTKEIGP-UHFFFAOYSA-N,41
@@ -14388,7 +14388,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 14387,1.6*10**1,"",Q,3551,789,3551,"4-chloro-2,5-dimethoxynitrobenzene",C<sub>8</sub>H<sub>8</sub>ClNO<sub>4</sub>,"",6940-53-0,ORLPGMKKCAEWOW-UHFFFAOYSA-N,45
 14388,2.0*10**2,"",Q,3551,789,3551,"4-chloro-2,5-dimethoxynitrobenzene",C<sub>8</sub>H<sub>8</sub>ClNO<sub>4</sub>,"",6940-53-0,ORLPGMKKCAEWOW-UHFFFAOYSA-N,45
 14389,3.9*10**1,"",Q,3551,789,3551,"4-chloro-2,5-dimethoxynitrobenzene",C<sub>8</sub>H<sub>8</sub>ClNO<sub>4</sub>,"",6940-53-0,ORLPGMKKCAEWOW-UHFFFAOYSA-N,45
-14390,&gt; 2.3*10**10,"",?,3552,466,3552,chloraniformethan,C<sub>9</sub>H<sub>7</sub>Cl<sub>5</sub>N<sub>2</sub>O,"",20856-57-9,REEFSLKDEDEWAO-UHFFFAOYSA-N,45
+14390, 2.3*10**10,"",?,3552,466,3552,chloraniformethan,C<sub>9</sub>H<sub>7</sub>Cl<sub>5</sub>N<sub>2</sub>O,"",20856-57-9,REEFSLKDEDEWAO-UHFFFAOYSA-N,45
 14391,1.7*10**4,"",V,3553,340,3553,monuron,C<sub>9</sub>H<sub>11</sub>ClN<sub>2</sub>O,"",150-68-5,BMLIZLVNXIYGCK-UHFFFAOYSA-N,45
 14392,1.5*10**4,"",V,3553,479,3553,monuron,C<sub>9</sub>H<sub>11</sub>ClN<sub>2</sub>O,"",150-68-5,BMLIZLVNXIYGCK-UHFFFAOYSA-N,45
 14393,3.3*10**2,"",V,3553,683,3553,monuron,C<sub>9</sub>H<sub>11</sub>ClN<sub>2</sub>O,"",150-68-5,BMLIZLVNXIYGCK-UHFFFAOYSA-N,45
@@ -14439,7 +14439,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 14438,8.5*10**2,"",?,3572,466,3572,barban,C<sub>11</sub>H<sub>9</sub>Cl<sub>2</sub>NO<sub>2</sub>,"",101-27-9,MCOQHIWZJUDQIC-UHFFFAOYSA-N,45
 14439,5.2,"",V,3573,340,3573,propyzamide,C<sub>12</sub>H<sub>11</sub>Cl<sub>2</sub>NO,pronamide,23950-58-5,PHNUZKMIPFFYSO-UHFFFAOYSA-N,45
 14440,"","",W,3573,479,3573,propyzamide,C<sub>12</sub>H<sub>11</sub>Cl<sub>2</sub>NO,pronamide,23950-58-5,PHNUZKMIPFFYSO-UHFFFAOYSA-N,45
-14441,&gt; 8.1,"",M,3574,379,3574,"2,4,6-trichlorophenyl 4-nitrophenyl ether",C<sub>12</sub>H<sub>6</sub>Cl<sub>3</sub>NO<sub>3</sub>,chlornitrofen,1836-77-7,XQNAUQUKWRBODG-UHFFFAOYSA-N,45
+14441, 8.1,"",M,3574,379,3574,"2,4,6-trichlorophenyl 4-nitrophenyl ether",C<sub>12</sub>H<sub>6</sub>Cl<sub>3</sub>NO<sub>3</sub>,chlornitrofen,1836-77-7,XQNAUQUKWRBODG-UHFFFAOYSA-N,45
 14442,3.3,"",V,3575,340,3575,nitrofen,C<sub>12</sub>H<sub>7</sub>Cl<sub>2</sub>NO<sub>3</sub>,"",1836-75-5,XITQUSLLOSKDTB-UHFFFAOYSA-N,45
 14443,3.9*10**1,"",Q,3575,789,3575,nitrofen,C<sub>12</sub>H<sub>7</sub>Cl<sub>2</sub>NO<sub>3</sub>,"",1836-75-5,XITQUSLLOSKDTB-UHFFFAOYSA-N,45
 14444,2.8*10**1,"",Q,3575,789,3575,nitrofen,C<sub>12</sub>H<sub>7</sub>Cl<sub>2</sub>NO<sub>3</sub>,"",1836-75-5,XITQUSLLOSKDTB-UHFFFAOYSA-N,45
@@ -14493,7 +14493,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 14492,"",12000,Q,3588,409,3588,metolachlor,C<sub>15</sub>H<sub>22</sub>ClNO<sub>2</sub>,"",51218-45-2,WVQBLGZPHOPPFO-UHFFFAOYSA-N,45
 14493,"",10000,?,3588,409,3588,metolachlor,C<sub>15</sub>H<sub>22</sub>ClNO<sub>2</sub>,"",51218-45-2,WVQBLGZPHOPPFO-UHFFFAOYSA-N,45
 14494,1.1*10**3,"",?,3588,150,3588,metolachlor,C<sub>15</sub>H<sub>22</sub>ClNO<sub>2</sub>,"",51218-45-2,WVQBLGZPHOPPFO-UHFFFAOYSA-N,45
-14495,&gt; 2.6*10**4,"",V,3589,340,3589,clonitralid,C<sub>15</sub>H<sub>15</sub>Cl<sub>2</sub>N<sub>3</sub>O<sub>5</sub>,"",1420-04-8,XYCDHXSQODHSLG-UHFFFAOYSA-N,45
+14495, 2.6*10**4,"",V,3589,340,3589,clonitralid,C<sub>15</sub>H<sub>15</sub>Cl<sub>2</sub>N<sub>3</sub>O<sub>5</sub>,"",1420-04-8,XYCDHXSQODHSLG-UHFFFAOYSA-N,45
 14496,2.4*10**4,"",V,3590,340,3590,chloroxuron,C<sub>15</sub>H<sub>15</sub>ClN<sub>2</sub>O<sub>2</sub>,"",1982-47-4,IVUXTESCPZUGJC-UHFFFAOYSA-N,45
 14497,5.3*10**4,"",?,3590,466,3590,chloroxuron,C<sub>15</sub>H<sub>15</sub>ClN<sub>2</sub>O<sub>2</sub>,"",1982-47-4,IVUXTESCPZUGJC-UHFFFAOYSA-N,45
 14498,4.4*10**6,"",?,3591,466,3591,CGA 80000,C<sub>15</sub>H<sub>18</sub>ClNO<sub>4</sub>,"",67932-85-8,FHZMAAGOSXDIBJ-UHFFFAOYSA-N,45
@@ -14562,8 +14562,8 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 14561,9.1*10**1,"",V,3620,657,3620,vinclozoline,C<sub>12</sub>H<sub>9</sub>Cl<sub>2</sub>NO<sub>3</sub>,"",50471-44-8,FSCWZHGZWWDELK-UHFFFAOYSA-N,45
 14562,3.5*10**6,"",X,3621,467,3621,forchlorfenuron,C<sub>12</sub>H<sub>10</sub>ClN<sub>3</sub>O,"",68157-60-8,GPXLRLUVLMHHIK-UHFFFAOYSA-N,45
 14563,3.7*10**2,"",?,3622,466,3622,myclozolin,C<sub>12</sub>H<sub>11</sub>NO<sub>4</sub>Cl<sub>2</sub>,"",54864-61-8,FTCOKXNKPOUEFH-UHFFFAOYSA-N,45
-14564,&gt; 1.9*10**8,"",V,3623,340,3623,clofencet,C<sub>13</sub>H<sub>11</sub>ClN<sub>2</sub>O<sub>3</sub>,"",129025-54-3,PIZCXVUFSNPNON-UHFFFAOYSA-N,45
-14565,&gt; 2.3*10**10,"",?,3623,466,3623,clofencet,C<sub>13</sub>H<sub>11</sub>ClN<sub>2</sub>O<sub>3</sub>,"",129025-54-3,PIZCXVUFSNPNON-UHFFFAOYSA-N,45
+14564, 1.9*10**8,"",V,3623,340,3623,clofencet,C<sub>13</sub>H<sub>11</sub>ClN<sub>2</sub>O<sub>3</sub>,"",129025-54-3,PIZCXVUFSNPNON-UHFFFAOYSA-N,45
+14565, 2.3*10**10,"",?,3623,466,3623,clofencet,C<sub>13</sub>H<sub>11</sub>ClN<sub>2</sub>O<sub>3</sub>,"",129025-54-3,PIZCXVUFSNPNON-UHFFFAOYSA-N,45
 14566,4.4*10**2,"",?,3624,466,3624,chlozolinate,C<sub>13</sub>H<sub>11</sub>NO<sub>5</sub>Cl<sub>2</sub>,"",84332-86-5,IGUYEXXAGBDLLX-UHFFFAOYSA-N,45
 14567,4.0*10**2,"",?,3625,466,3625,monalide,C<sub>13</sub>H<sub>18</sub>ClNO,"",7287-36-7,KXGYBSNVFXBPNO-UHFFFAOYSA-N,45
 14568,7.9*10**3,"",?,3626,466,3626,etaconazole,C<sub>14</sub>H<sub>15</sub>Cl<sub>2</sub>N<sub>3</sub>O<sub>2</sub>,"",60207-93-4,DWRKFAJEBUWTQM-UHFFFAOYSA-N,45
@@ -14589,7 +14589,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 14588,1.4*10**3,"",V,3640,479,3640,fenarimol,C<sub>17</sub>H<sub>12</sub>Cl<sub>2</sub>N<sub>2</sub>O,"",60168-88-9,NHOWDZOIZKMVAI-UHFFFAOYSA-N,45
 14589,6.6*10**4,"",Q,3641,340,3641,triticonazole,C<sub>17</sub>H<sub>20</sub>N<sub>3</sub>OCl,"",131983-72-7,PPDBOQMNKNNODG-ZROIWOOFSA-N,45
 14590,1.9*10**4,"",X,3642,467,3642,boscalid,C<sub>18</sub>H<sub>12</sub>Cl<sub>2</sub>N<sub>2</sub>O,"",188425-85-6,WYEMLYFITZORAB-UHFFFAOYSA-N,45
-14591,&gt; 8.2*10**2,"",V,3643,340,3643,tebufenpyrad,C<sub>18</sub>H<sub>24</sub>ClN<sub>3</sub>O,"",119168-77-3,ZZYSLNWGKKDOML-UHFFFAOYSA-N,45
+14591, 8.2*10**2,"",V,3643,340,3643,tebufenpyrad,C<sub>18</sub>H<sub>24</sub>ClN<sub>3</sub>O,"",119168-77-3,ZZYSLNWGKKDOML-UHFFFAOYSA-N,45
 14592,4.8*10**5,"",Q,3644,789,3644,"8,9,10,11-tetrachloro-12-phthaloperinone",C<sub>18</sub>H<sub>6</sub>Cl<sub>4</sub>N<sub>2</sub>O,"",20749-68-2,UBZVRROHBDDCQY-UHFFFAOYSA-N,45
 14593,7.5*10**9,"",Q,3644,789,3644,"8,9,10,11-tetrachloro-12-phthaloperinone",C<sub>18</sub>H<sub>6</sub>Cl<sub>4</sub>N<sub>2</sub>O,"",20749-68-2,UBZVRROHBDDCQY-UHFFFAOYSA-N,45
 14594,5.7*10**3,"",Q,3644,789,3644,"8,9,10,11-tetrachloro-12-phthaloperinone",C<sub>18</sub>H<sub>6</sub>Cl<sub>4</sub>N<sub>2</sub>O,"",20749-68-2,UBZVRROHBDDCQY-UHFFFAOYSA-N,45
@@ -14963,7 +14963,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 14961,4.9*10**6,"",V,3739,340,3739,pyridalyl,C<sub>18</sub>H<sub>14</sub>Cl<sub>4</sub>F<sub>3</sub>NO<sub>3</sub>,"",179101-81-6,UBSUICNYBBPFHD-UHFFFAOYSA-N,46
 14962,2.3*10**1,"",V,3740,340,3740,lactofen,C<sub>19</sub>H<sub>15</sub>ClF<sub>3</sub>NO<sub>7</sub>,"",77501-63-4,CONWAEURSVPLRM-UHFFFAOYSA-N,46
 14963,3.9*10**8,"",Q,3741,320,3741,chlorfluazuron,C<sub>20</sub>H<sub>9</sub>Cl<sub>3</sub>F<sub>5</sub>N<sub>3</sub>O<sub>3</sub>,"",71422-67-8,UISUNVFOGSJSKD-UHFFFAOYSA-N,46
-14964,&gt; 2.3*10**10,"",?,3742,466,3742,fluazuron,C<sub>20</sub>H<sub>10</sub>N<sub>3</sub>O<sub>3</sub>Cl<sub>2</sub>F<sub>5</sub>,"",86811-58-7,YOWNVPAUWYHLQX-UHFFFAOYSA-N,46
+14964, 2.3*10**10,"",?,3742,466,3742,fluazuron,C<sub>20</sub>H<sub>10</sub>N<sub>3</sub>O<sub>3</sub>Cl<sub>2</sub>F<sub>5</sub>,"",86811-58-7,YOWNVPAUWYHLQX-UHFFFAOYSA-N,46
 14965,3.8*10**6,"",Q,3743,340,3743,flufenoxuron,C<sub>21</sub>H<sub>11</sub>ClF<sub>6</sub>N<sub>2</sub>O<sub>3</sub>,"",101463-69-8,RYLHNOVXKPXDIP-UHFFFAOYSA-N,46
 14966,9.0*10**6,"",V,3744,340,3744,fluoxastrobin,C<sub>21</sub>H<sub>16</sub>N<sub>4</sub>O<sub>5</sub>ClF,"",361377-29-9,UFEODZBUAFNAEU-NLRVBDNBSA-N,46
 14967,4.3*10**8,"",Q,3745,340,3745,haloperidol,C<sub>21</sub>H<sub>23</sub>ClFNO<sub>2</sub>,"",52-86-8,LNEPOXFFQSENCJ-UHFFFAOYSA-N,46
@@ -15940,7 +15940,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 15939,4.2*10**16,"",Q,4022,789,4022,iothalamic acid,C<sub>11</sub>H<sub>9</sub>I<sub>3</sub>N<sub>2</sub>O<sub>4</sub>,"",2276-90-6,UXIGWFXRQKWHHA-UHFFFAOYSA-N,50
 15940,1.9*10**16,"",Q,4022,789,4022,iothalamic acid,C<sub>11</sub>H<sub>9</sub>I<sub>3</sub>N<sub>2</sub>O<sub>4</sub>,"",2276-90-6,UXIGWFXRQKWHHA-UHFFFAOYSA-N,50
 15941,6.2*10**5,"",V,4023,479,4023,benodanil,C<sub>13</sub>H<sub>10</sub>INO,"",15310-01-7,LJOZMWRYMKECFF-UHFFFAOYSA-N,50
-15942,&gt; 2.3*10**10,"",?,4023,466,4023,benodanil,C<sub>13</sub>H<sub>10</sub>INO,"",15310-01-7,LJOZMWRYMKECFF-UHFFFAOYSA-N,50
+15942, 2.3*10**10,"",?,4023,466,4023,benodanil,C<sub>13</sub>H<sub>10</sub>INO,"",15310-01-7,LJOZMWRYMKECFF-UHFFFAOYSA-N,50
 15943,9.0*10**19,"",Q,4024,340,4024,iopamidol,C<sub>17</sub>H<sub>22</sub>I<sub>3</sub>N<sub>3</sub>O<sub>8</sub>,"",60166-93-0,XQZXYNRDCRIARQ-LURJTMIESA-N,50
 15944,2.7*10**35,"",Q,4025,789,4025,ioxaglic acid,C<sub>24</sub>H<sub>21</sub>I<sub>6</sub>N<sub>5</sub>O<sub>8</sub>,"",59017-64-0,TYYBFXNZMFNZJT-UHFFFAOYSA-N,50
 15945,1.4*10**27,"",Q,4025,789,4025,ioxaglic acid,C<sub>24</sub>H<sub>21</sub>I<sub>6</sub>N<sub>5</sub>O<sub>8</sub>,"",59017-64-0,TYYBFXNZMFNZJT-UHFFFAOYSA-N,50
@@ -16197,7 +16197,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 16196,6.9,"",Q,4080,320,4080,"sulfuric acid, dimethyl ester",C<sub>2</sub>H<sub>6</sub>O<sub>4</sub>S,"",77-78-1,VAYGXNSJCAHWJZ-UHFFFAOYSA-N,51
 16197,9.8*10**2,"",L,4081,603,4081,dimethylsulfoxide,CH<sub>3</sub>SOCH<sub>3</sub>,DMSO,67-68-5,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,51
 16198,9.8*10**2,"",L,4081,602,4081,dimethylsulfoxide,CH<sub>3</sub>SOCH<sub>3</sub>,DMSO,67-68-5,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,51
-16199,&gt; 9.9*10**3,"",M,4081,429,4081,dimethylsulfoxide,CH<sub>3</sub>SOCH<sub>3</sub>,DMSO,67-68-5,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,51
+16199, 9.9*10**3,"",M,4081,429,4081,dimethylsulfoxide,CH<sub>3</sub>SOCH<sub>3</sub>,DMSO,67-68-5,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,51
 16200,9.4*10**2,1300,M,4081,735,4081,dimethylsulfoxide,CH<sub>3</sub>SOCH<sub>3</sub>,DMSO,67-68-5,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,51
 16201,4.4,"",V,4081,479,4081,dimethylsulfoxide,CH<sub>3</sub>SOCH<sub>3</sub>,DMSO,67-68-5,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,51
 16202,4.4,"",V,4081,475,4081,dimethylsulfoxide,CH<sub>3</sub>SOCH<sub>3</sub>,DMSO,67-68-5,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,51
@@ -16210,7 +16210,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 16209,"","",?,4081,247,4081,dimethylsulfoxide,CH<sub>3</sub>SOCH<sub>3</sub>,DMSO,67-68-5,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,51
 16210,5.0*10**-3,"",V,4082,479,4082,dimethylsulfone,CH<sub>3</sub>SO<sub>2</sub>CH<sub>3</sub>,DMSO2,67-71-0,HHVIBTZHLRERCL-UHFFFAOYSA-N,51
 16211,5.0*10**-3,"",V,4082,475,4082,dimethylsulfone,CH<sub>3</sub>SO<sub>2</sub>CH<sub>3</sub>,DMSO2,67-71-0,HHVIBTZHLRERCL-UHFFFAOYSA-N,51
-16212,&gt; 4.9*10**2,"",E,4082,183,4082,dimethylsulfone,CH<sub>3</sub>SO<sub>2</sub>CH<sub>3</sub>,DMSO2,67-71-0,HHVIBTZHLRERCL-UHFFFAOYSA-N,51
+16212, 4.9*10**2,"",E,4082,183,4082,dimethylsulfone,CH<sub>3</sub>SO<sub>2</sub>CH<sub>3</sub>,DMSO2,67-71-0,HHVIBTZHLRERCL-UHFFFAOYSA-N,51
 16213,5.2*10**2,"",Q,4083,340,4083,mercaptoacetic acid,C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>S,"",68-11-1,CWERGRDVMFNCDR-UHFFFAOYSA-N,51
 16214,5.5*10**1,"",V,4084,340,4084,2-mercaptoethanol,C<sub>2</sub>H<sub>6</sub>OS,"",60-24-2,DGVVWUTYPXICAM-UHFFFAOYSA-N,51
 16215,2.5,"",Q,4085,340,4085,"methanesulfonic acid, methyl ester",C<sub>2</sub>H<sub>6</sub>O<sub>3</sub>S,"",66-27-3,MBABOKRGFJTBAE-UHFFFAOYSA-N,51
@@ -16407,7 +16407,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 16406,3.8*10**-1,"",V,4185,479,4185,pebulate,C<sub>10</sub>H<sub>21</sub>NOS,"",1114-71-2,SGEJQUSYQTVSIU-UHFFFAOYSA-N,51
 16407,8.6*10**-2,"",V,4185,683,4185,pebulate,C<sub>10</sub>H<sub>21</sub>NOS,"",1114-71-2,SGEJQUSYQTVSIU-UHFFFAOYSA-N,51
 16408,6.4*10**-1,"",Q,4185,320,4185,pebulate,C<sub>10</sub>H<sub>21</sub>NOS,"",1114-71-2,SGEJQUSYQTVSIU-UHFFFAOYSA-N,51
-16409,&gt; 2.3*10**10,"",?,4185,466,4185,pebulate,C<sub>10</sub>H<sub>21</sub>NOS,"",1114-71-2,SGEJQUSYQTVSIU-UHFFFAOYSA-N,51
+16409, 2.3*10**10,"",?,4185,466,4185,pebulate,C<sub>10</sub>H<sub>21</sub>NOS,"",1114-71-2,SGEJQUSYQTVSIU-UHFFFAOYSA-N,51
 16410,3.2*10**-1,"",V,4186,340,4186,vernolate,C<sub>10</sub>H<sub>21</sub>NOS,"",1929-77-7,OKUGPJPKMAEJOE-UHFFFAOYSA-N,51
 16411,4.9*10**-1,"",V,4186,479,4186,vernolate,C<sub>10</sub>H<sub>21</sub>NOS,"",1929-77-7,OKUGPJPKMAEJOE-UHFFFAOYSA-N,51
 16412,4.9*10**-1,"",V,4186,683,4186,vernolate,C<sub>10</sub>H<sub>21</sub>NOS,"",1929-77-7,OKUGPJPKMAEJOE-UHFFFAOYSA-N,51
@@ -16511,7 +16511,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 16510,4.6*10**-3,"",Q,4247,32,4247,perfluorooctane sulfonic acid,C<sub>8</sub>HF<sub>17</sub>O<sub>3</sub>S,PFOS,1763-23-1,YFSUTJLHUFNCNZ-UHFFFAOYSA-N,51
 16511,1.5*10**-7,"",Q,4248,340,4248,heptadecafluorooctanesulphonyl fluoride,C<sub>8</sub>F<sub>18</sub>O<sub>2</sub>S,perfluorooctylsulfonyl fluoride,307-35-7,BHFJBHMTEDLICO-UHFFFAOYSA-N,51
 16512,4.3*10**3,"",Q,4249,340,4249,fluticasone,C<sub>22</sub>H<sub>27</sub>F<sub>3</sub>O<sub>4</sub>S,"",90566-53-3,MGNNYOODZCAHBA-GQKYHHCASA-N,51
-16513,&gt; 2.3*10**10,"",?,4250,466,4250,flubenzimine,C<sub>17</sub>H<sub>10</sub>F<sub>6</sub>N<sub>4</sub>S,"",37893-02-0,IZFZCMFMJKDHJZ-UHFFFAOYSA-N,51
+16513, 2.3*10**10,"",?,4250,466,4250,flubenzimine,C<sub>17</sub>H<sub>10</sub>F<sub>6</sub>N<sub>4</sub>S,"",37893-02-0,IZFZCMFMJKDHJZ-UHFFFAOYSA-N,51
 16514,3.2*10**4,"",?,4251,466,4251,thiazafluron,C<sub>6</sub>H<sub>7</sub>F<sub>3</sub>N<sub>4</sub>OS,"",25366-23-8,BBJPZPLAZVZTGR-UHFFFAOYSA-N,51
 16515,3.5*10**-4,"",Q,4252,789,4252,undecafluoro-N-methyl-1-pentanesulfonamide,C<sub>6</sub>H<sub>4</sub>F<sub>11</sub>NO<sub>2</sub>S,"",68298-13-5,BKKNDZBSSSAGIB-UHFFFAOYSA-N,51
 16749,1.1*10**4,"",Q,4332,789,4332,"4-amino-3,5-dichloro-N-ethyl-2-methylbenzenesulfonamide",C<sub>9</sub>H<sub>12</sub>Cl<sub>2</sub>N<sub>2</sub>O<sub>2</sub>S,"",151574-12-8,SBBHTEMLRJJIGK-UHFFFAOYSA-N,51
@@ -16735,7 +16735,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 16732,9.7*10**-1,"",Q,4319,789,4319,"2,4-dichloro-6-(methylthio)-1,3,5-triazine",C<sub>4</sub>H<sub>3</sub>Cl<sub>2</sub>N<sub>3</sub>S,"",13705-05-0,MWPZLWRHHPWTFS-UHFFFAOYSA-N,51
 16733,1.7*10**1,"",Q,4319,789,4319,"2,4-dichloro-6-(methylthio)-1,3,5-triazine",C<sub>4</sub>H<sub>3</sub>Cl<sub>2</sub>N<sub>3</sub>S,"",13705-05-0,MWPZLWRHHPWTFS-UHFFFAOYSA-N,51
 16734,3.5*10**4,"",?,4320,466,4320,chlorthiamid,C<sub>7</sub>H<sub>5</sub>Cl<sub>2</sub>NS,"",1918-13-4,KGKGSIUWJCAFPX-UHFFFAOYSA-N,51
-16735,&gt; 9.9*10**1,"",Q,4321,340,4321,(2-chlorophenyl)thiourea,C<sub>7</sub>H<sub>7</sub>ClN<sub>2</sub>S,"",5344-82-1,YZUKKTCDYSIWKJ-UHFFFAOYSA-N,51
+16735, 9.9*10**1,"",Q,4321,340,4321,(2-chlorophenyl)thiourea,C<sub>7</sub>H<sub>7</sub>ClN<sub>2</sub>S,"",5344-82-1,YZUKKTCDYSIWKJ-UHFFFAOYSA-N,51
 16736,1.5,"",V,4322,340,4322,"2-chloroallyl-N,N-diethyldithiocarbamate",C<sub>8</sub>H<sub>14</sub>ClNS<sub>2</sub>,"",95-06-7,XJCLWVXTCRQIDI-UHFFFAOYSA-N,51
 16737,2.1*10**1,"",Q,4322,320,4322,"2-chloroallyl-N,N-diethyldithiocarbamate",C<sub>8</sub>H<sub>14</sub>ClNS<sub>2</sub>,"",95-06-7,XJCLWVXTCRQIDI-UHFFFAOYSA-N,51
 16738,9.0*10**8,"",V,4323,340,4323,thiacloprid,C<sub>10</sub>H<sub>9</sub>ClN<sub>4</sub>S,"",111988-49-9,HOKKPVIRMVDYPB-UHFFFAOYSA-N,51
@@ -16746,7 +16746,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 16743,3.4*10**10,"",X,4327,467,4327,clothianidin,C<sub>6</sub>H<sub>8</sub>ClN<sub>5</sub>O<sub>2</sub>S,"",210880-92-5,PGOOBECODWQEAB-UHFFFAOYSA-N,51
 16744,1.3,"",?,4328,466,4328,chlobenthiazone,C<sub>8</sub>H<sub>6</sub>NOClS,"",63755-05-5,QCPASDYEQAVIJF-UHFFFAOYSA-N,51
 16745,2.5*10**9,"",?,4329,466,4329,prothiocarb hydrochloride,C<sub>8</sub>H<sub>19</sub>ClN<sub>2</sub>OS,"",19622-19-6,NMFAMPYSJHIYMR-UHFFFAOYSA-N,51
-16746,&gt; 2.3*10**10,"",?,4330,466,4330,thicyofen,C<sub>8</sub>H<sub>5</sub>N<sub>2</sub>OClS<sub>2</sub>,"",116170-30-0,GNOOAFGERMHQJE-UHFFFAOYSA-N,51
+16746, 2.3*10**10,"",?,4330,466,4330,thicyofen,C<sub>8</sub>H<sub>5</sub>N<sub>2</sub>OClS<sub>2</sub>,"",116170-30-0,GNOOAFGERMHQJE-UHFFFAOYSA-N,51
 16747,2.1*10**9,"",V,4331,340,4331,thiamethoxam,C<sub>8</sub>H<sub>10</sub>ClN<sub>5</sub>O<sub>3</sub>S,"",153719-23-4,NWWZPOKUUAIXIW-DHZHZOJOSA-N,51
 16748,3.8*10**4,"",Q,4332,789,4332,"4-amino-3,5-dichloro-N-ethyl-2-methylbenzenesulfonamide",C<sub>9</sub>H<sub>12</sub>Cl<sub>2</sub>N<sub>2</sub>O<sub>2</sub>S,"",151574-12-8,SBBHTEMLRJJIGK-UHFFFAOYSA-N,51
 16751,1.5*10**7,"",Q,4332,789,4332,"4-amino-3,5-dichloro-N-ethyl-2-methylbenzenesulfonamide",C<sub>9</sub>H<sub>12</sub>Cl<sub>2</sub>N<sub>2</sub>O<sub>2</sub>S,"",151574-12-8,SBBHTEMLRJJIGK-UHFFFAOYSA-N,51
@@ -16790,7 +16790,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 16789,6.2*10**11,"",Q,4353,340,4353,vismodegib,C<sub>19</sub>H<sub>14</sub>Cl<sub>2</sub>N<sub>2</sub>O<sub>3</sub>S,"",879085-55-9,BPQMGSKTAYIVFO-UHFFFAOYSA-N,51
 16790,2.1*10**-1,"",V,4354,340,4354,pyridaben,C<sub>19</sub>H<sub>25</sub>ClN<sub>2</sub>OS,"",96489-71-3,DWFZBUWUXWZWKD-UHFFFAOYSA-N,51
 16791,5.8*10**9,"",V,4355,340,4355,tembotrione,C<sub>17</sub>H<sub>16</sub>ClF<sub>3</sub>O<sub>6</sub>S,"",335104-84-2,IUQAXCIUEPFPSF-UHFFFAOYSA-N,51
-16792,&gt; 2.3*10**10,"",?,4356,466,4356,fluothiuron,C<sub>10</sub>H<sub>10</sub>Cl<sub>2</sub>F<sub>2</sub>N<sub>2</sub>OS,"",33439-45-1,YFEUKKUPOVGUIW-UHFFFAOYSA-N,51
+16792, 2.3*10**10,"",?,4356,466,4356,fluothiuron,C<sub>10</sub>H<sub>10</sub>Cl<sub>2</sub>F<sub>2</sub>N<sub>2</sub>OS,"",33439-45-1,YFEUKKUPOVGUIW-UHFFFAOYSA-N,51
 16793,1.5*10**7,"",V,4357,340,4357,sulfentrazone,C<sub>11</sub>H<sub>10</sub>Cl<sub>2</sub>F<sub>2</sub>N<sub>4</sub>O<sub>3</sub>S,"",122836-35-5,OORLZFUTLGXMEF-UHFFFAOYSA-N,51
 16794,4.0*10**1,"",?,4358,466,4358,flurazole,C<sub>12</sub>H<sub>7</sub>NO<sub>2</sub>ClF<sub>3</sub>S,"",72850-64-7,MKQSWTQPLLCSOB-UHFFFAOYSA-N,51
 16795,1.2*10**4,"",V,4359,340,4359,fipronil,C<sub>12</sub>H<sub>4</sub>Cl<sub>2</sub>F<sub>6</sub>N<sub>4</sub>OS,"",120068-37-3,ZOCSXAVNDGMNBV-UHFFFAOYSA-N,51
@@ -16925,7 +16925,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 16924,6.2*10**1,"",V,4428,340,4428,fyrol 6,C<sub>9</sub>H<sub>22</sub>NO<sub>5</sub>P,diethyl ((diethanolamino)methyl) phosphonate,2781-11-5,CCJKFLLIJCGHMO-UHFFFAOYSA-N,52
 16925,1.6*10**3,"",V,4429,274,4429,diethyl 4-nitrophenyl phosphate,C<sub>10</sub>H<sub>14</sub>NO<sub>6</sub>P,paraoxon,311-45-5,WYMSBXTXOHUIGT-UHFFFAOYSA-N,52
 16926,1.5*10**4,"",Q,4429,340,4429,diethyl 4-nitrophenyl phosphate,C<sub>10</sub>H<sub>14</sub>NO<sub>6</sub>P,paraoxon,311-45-5,WYMSBXTXOHUIGT-UHFFFAOYSA-N,52
-16927,&gt; 1.1*10**4,"",V,4430,758,4430,dimethyl 4-nitrophenyl phosphate,C<sub>8</sub>H<sub>10</sub>NO<sub>6</sub>P,methyl paraoxon,950-35-6,BAFQDKPJKOLXFZ-UHFFFAOYSA-N,52
+16927, 1.1*10**4,"",V,4430,758,4430,dimethyl 4-nitrophenyl phosphate,C<sub>8</sub>H<sub>10</sub>NO<sub>6</sub>P,methyl paraoxon,950-35-6,BAFQDKPJKOLXFZ-UHFFFAOYSA-N,52
 16928,5.0,"",?,4431,466,4431,buminafos,C<sub>18</sub>H<sub>38</sub>NO<sub>3</sub>P,"",51249-05-9,NMBXMBCZBXUXAM-UHFFFAOYSA-N,52
 16929,4.5*10**-1,"",Q,4432,340,4432,methylphosphonyldifluoride,CH<sub>3</sub>F<sub>2</sub>OP,"",676-99-3,PQIOSYKVBBWRRI-UHFFFAOYSA-N,52
 16930,1.7*10**1,"",V,4433,340,4433,sarin,C<sub>4</sub>H<sub>10</sub>FO<sub>2</sub>P,"",107-44-8,DYAHQFWOVKZOOW-UHFFFAOYSA-N,52
@@ -16943,7 +16943,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 16942,2.8*10**7,"",?,4440,466,4440,chlorphonium chloride,C<sub>19</sub>H<sub>32</sub>Cl<sub>3</sub>P,"",115-78-6,IVHVNMLJNASKHW-UHFFFAOYSA-M,52
 16943,7.0*10**7,"",Q,4441,340,4441,triclofos,C<sub>2</sub>H<sub>4</sub>Cl<sub>3</sub>O<sub>4</sub>P,"",306-52-5,YYQRGCZGSFRBAM-UHFFFAOYSA-N,52
 16944,6.9*10**7,"",V,4442,340,4442,(2-chloroethyl)-phosphonic acid,C<sub>2</sub>H<sub>6</sub>ClO<sub>3</sub>P,ethephon,16672-87-0,UDPGUMQDCGORJQ-UHFFFAOYSA-N,52
-16945,&gt; 8.1*10**2,"",M,4443,379,4443,"1-hydroxy-2,2,2-trichloroethylphosphonic acid, dimethyl ester",C<sub>4</sub>H<sub>8</sub>Cl<sub>3</sub>O<sub>4</sub>P,trichlorfon,52-68-6,NFACJZMKEDPNKN-UHFFFAOYSA-N,52
+16945, 8.1*10**2,"",M,4443,379,4443,"1-hydroxy-2,2,2-trichloroethylphosphonic acid, dimethyl ester",C<sub>4</sub>H<sub>8</sub>Cl<sub>3</sub>O<sub>4</sub>P,trichlorfon,52-68-6,NFACJZMKEDPNKN-UHFFFAOYSA-N,52
 16946,5.8*10**5,"",V,4443,340,4443,"1-hydroxy-2,2,2-trichloroethylphosphonic acid, dimethyl ester",C<sub>4</sub>H<sub>8</sub>Cl<sub>3</sub>O<sub>4</sub>P,trichlorfon,52-68-6,NFACJZMKEDPNKN-UHFFFAOYSA-N,52
 16947,6.0*10**5,"",V,4443,479,4443,"1-hydroxy-2,2,2-trichloroethylphosphonic acid, dimethyl ester",C<sub>4</sub>H<sub>8</sub>Cl<sub>3</sub>O<sub>4</sub>P,trichlorfon,52-68-6,NFACJZMKEDPNKN-UHFFFAOYSA-N,52
 16948,5.9*10**5,"",V,4443,683,4443,"1-hydroxy-2,2,2-trichloroethylphosphonic acid, dimethyl ester",C<sub>4</sub>H<sub>8</sub>Cl<sub>3</sub>O<sub>4</sub>P,trichlorfon,52-68-6,NFACJZMKEDPNKN-UHFFFAOYSA-N,52
@@ -17008,7 +17008,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 17007,1.9*10**5,"",Q,4465,789,4465,"bis(2,6,6-trimethylbicyclo[3.1.1]hept-2-enyl) bis(2,6,6-trimethylbicyclo[3.1.1]hept-2-enyl)thiodiphosphonate",C<sub>40</sub>H<sub>60</sub>P<sub>2</sub>S<sub>5</sub>,"",68400-79-3,ZZMOHCWFHCHISQ-UHFFFAOYSA-N,52
 17008,1.6*10**2,"",Q,4465,789,4465,"bis(2,6,6-trimethylbicyclo[3.1.1]hept-2-enyl) bis(2,6,6-trimethylbicyclo[3.1.1]hept-2-enyl)thiodiphosphonate",C<sub>40</sub>H<sub>60</sub>P<sub>2</sub>S<sub>5</sub>,"",68400-79-3,ZZMOHCWFHCHISQ-UHFFFAOYSA-N,52
 17009,3.5*10**-1,"",V,4466,340,4466,thiometon,C<sub>6</sub>H<sub>15</sub>O<sub>2</sub>PS<sub>3</sub>,"",640-15-3,OPASCBHCTNRLRM-UHFFFAOYSA-N,52
-17010,&lt; 2.3*10**10,"",?,4467,466,4467,demeton-S-methyl sulfone,C<sub>6</sub>H<sub>15</sub>O<sub>5</sub>PS<sub>2</sub>,"",17040-19-6,PZIRJMYRYORVIT-UHFFFAOYSA-N,52
+17010, 2.3*10**10,"",?,4467,466,4467,demeton-S-methyl sulfone,C<sub>6</sub>H<sub>15</sub>O<sub>5</sub>PS<sub>2</sub>,"",17040-19-6,PZIRJMYRYORVIT-UHFFFAOYSA-N,52
 17011,6.2*10**7,"",Q,4468,340,4468,oxydemeton-methyl,C<sub>6</sub>H<sub>15</sub>O<sub>4</sub>PS<sub>2</sub>,"",301-12-2,PMCVMORKVPSKHZ-UHFFFAOYSA-N,52
 17012,3.7*10**2,"",V,4469,340,4469,demeton-S-methyl,C<sub>6</sub>H<sub>15</sub>O<sub>3</sub>PS<sub>2</sub>,"",919-86-8,WEBQKRLKWNIYKK-UHFFFAOYSA-N,52
 17013,3.6*10**2,"",V,4469,479,4469,demeton-S-methyl,C<sub>6</sub>H<sub>15</sub>O<sub>3</sub>PS<sub>2</sub>,"",919-86-8,WEBQKRLKWNIYKK-UHFFFAOYSA-N,52
@@ -17081,7 +17081,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 17080,9.0*10**4,"",V,4503,340,4503,formothion,C<sub>6</sub>H<sub>12</sub>NO<sub>4</sub>PS<sub>2</sub>,"",2540-82-1,AIKKULXCBHRFOS-UHFFFAOYSA-N,52
 17081,6.6*10**3,"",V,4504,340,4504,menazon,C<sub>6</sub>H<sub>12</sub>N<sub>5</sub>O<sub>2</sub>PS<sub>2</sub>,"",78-57-9,SUYHYHLFUHHVJQ-UHFFFAOYSA-N,52
 17082,3.5*10**5,"",Q,4505,340,4505,ethoate-methyl,C<sub>6</sub>H<sub>14</sub>NO<sub>3</sub>PS<sub>2</sub>,"",116-01-8,DICRHEJCQXFJBY-UHFFFAOYSA-N,52
-17083,&gt; 2.3*10**10,"",?,4506,466,4506,glyphosate-trimesium,C<sub>6</sub>H<sub>16</sub>NO<sub>5</sub>PS,"",81591-81-3,RUCAXVJJQQJZGU-UHFFFAOYSA-M,52
+17083, 2.3*10**10,"",?,4506,466,4506,glyphosate-trimesium,C<sub>6</sub>H<sub>16</sub>NO<sub>5</sub>PS,"",81591-81-3,RUCAXVJJQQJZGU-UHFFFAOYSA-M,52
 17084,5.0*10**1,"",L,4507,469,4507,methylparathion,C<sub>8</sub>H<sub>10</sub>NO<sub>5</sub>PS,"",298-00-0,RLBIQVVOMOPOHC-UHFFFAOYSA-N,52
 17085,2.6*10**2,"",M,4507,576,4507,methylparathion,C<sub>8</sub>H<sub>10</sub>NO<sub>5</sub>PS,"",298-00-0,RLBIQVVOMOPOHC-UHFFFAOYSA-N,52
 17086,1.6*10**2,"",M,4507,237,4507,methylparathion,C<sub>8</sub>H<sub>10</sub>NO<sub>5</sub>PS,"",298-00-0,RLBIQVVOMOPOHC-UHFFFAOYSA-N,52
@@ -17199,7 +17199,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 17198,1.4,"",C,4546,28,4546,chlorpyrifos,C<sub>9</sub>H<sub>11</sub>Cl<sub>3</sub>NO<sub>3</sub>PS,"",2921-88-2,SBPBAQFWLVIOKP-UHFFFAOYSA-N,52
 17199,2.2*10**-1,"",Q,4546,320,4546,chlorpyrifos,C<sub>9</sub>H<sub>11</sub>Cl<sub>3</sub>NO<sub>3</sub>PS,"",2921-88-2,SBPBAQFWLVIOKP-UHFFFAOYSA-N,52
 17200,2.5*10**2,"",Q,4546,500,4546,chlorpyrifos,C<sub>9</sub>H<sub>11</sub>Cl<sub>3</sub>NO<sub>3</sub>PS,"",2921-88-2,SBPBAQFWLVIOKP-UHFFFAOYSA-N,52
-17201,&gt; 2.3*10**10,"",?,4547,466,4547,chlorphoxim,C<sub>12</sub>H<sub>14</sub>ClN<sub>2</sub>O<sub>3</sub>PS,"",14816-20-7,GQKRUMZWUHSLJF-NTCAYCPXSA-N,52
+17201, 2.3*10**10,"",?,4547,466,4547,chlorphoxim,C<sub>12</sub>H<sub>14</sub>ClN<sub>2</sub>O<sub>3</sub>PS,"",14816-20-7,GQKRUMZWUHSLJF-NTCAYCPXSA-N,52
 17202,2.1*10**3,"",Q,4548,340,4548,phosazetim,C<sub>14</sub>H<sub>11</sub>Cl<sub>2</sub>N<sub>2</sub>O<sub>4</sub>PS,"",4104-14-7,XIBXUAZIZXDFTG-UHFFFAOYSA-N,52
 17203,5.5*10**1,"",V,4549,340,4549,dialifor,C<sub>14</sub>H<sub>17</sub>ClNO<sub>4</sub>PS<sub>2</sub>,"",10311-84-9,MUMQYXACQUZOFP-UHFFFAOYSA-N,52
 17204,7.1,"",V,4549,479,4549,dialifor,C<sub>14</sub>H<sub>17</sub>ClNO<sub>4</sub>PS<sub>2</sub>,"",10311-84-9,MUMQYXACQUZOFP-UHFFFAOYSA-N,52
@@ -17210,7 +17210,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 17209,4.5*10**2,"",V,4552,340,4552,profenofos,C<sub>11</sub>H<sub>15</sub>BrClO<sub>3</sub>PS,"",41198-08-7,QYMMJNLHFKGANY-UHFFFAOYSA-N,52
 17210,6.2*10**2,"",V,4552,479,4552,profenofos,C<sub>11</sub>H<sub>15</sub>BrClO<sub>3</sub>PS,"",41198-08-7,QYMMJNLHFKGANY-UHFFFAOYSA-N,52
 17211,2.2,"",V,4553,340,4553,iodofenphos,C<sub>8</sub>H<sub>8</sub>Cl<sub>2</sub>IO<sub>3</sub>PS,"",18181-70-9,LFVLUOAHQIVABZ-UHFFFAOYSA-N,52
-17212,&gt; 2.3*10**10,"",?,4553,466,4553,iodofenphos,C<sub>8</sub>H<sub>8</sub>Cl<sub>2</sub>IO<sub>3</sub>PS,"",18181-70-9,LFVLUOAHQIVABZ-UHFFFAOYSA-N,52
+17212, 2.3*10**10,"",?,4553,466,4553,iodofenphos,C<sub>8</sub>H<sub>8</sub>Cl<sub>2</sub>IO<sub>3</sub>PS,"",18181-70-9,LFVLUOAHQIVABZ-UHFFFAOYSA-N,52
 17213,3.8*10**5,"",Q,4554,340,4554,sesone,C<sub>8</sub>H<sub>7</sub>Cl<sub>2</sub>NaO<sub>5</sub>S,"2,4-dichlorophenoxyethyl sulfate",136-78-7,KISFEBPWFCGRGN-UHFFFAOYSA-M,53
 17214,8.2*10**25,"",Q,4555,340,4555,D&amp;C black 1,C<sub>22</sub>H<sub>14</sub>N<sub>6</sub>Na<sub>2</sub>O<sub>9</sub>S<sub>2</sub>,amido black 10B,1064-48-8,HKBVRFLHNUEVRO-DWTBGCDMSA-L,53
 17215,3.1*10**23,"",Q,4556,340,4556,D&amp;C green 5,C<sub>28</sub>H<sub>20</sub>N<sub>2</sub>Na<sub>2</sub>O<sub>8</sub>S<sub>2</sub>,"",4403-90-1,FPAYXBWMYIMERV-UHFFFAOYSA-L,53
@@ -17286,7 +17286,7 @@ id,hominus,mindhr,htype,species_id,literature_id,id,iupac,formula,trivial,casrn,
 17285,7.6*10**-4,"",Q,4590,340,4590,dichloromethylsilane,CH<sub>4</sub>Cl<sub>2</sub>Si,methyldichlorosilane,75-54-7,NWKBSEBOBPHMKL-UHFFFAOYSA-N,55
 17286,2.9*10**3,"",?,4591,466,4591,etacelasil,C<sub>11</sub>H<sub>25</sub>O<sub>6</sub>ClSi,"",37894-46-5,SLZWEMYSYKOWCG-UHFFFAOYSA-N,55
 17287,2.7*10**3,"",V,4592,479,4592,zineb,C<sub>4</sub>H<sub>6</sub>N<sub>2</sub>S<sub>4</sub>Zn,"",12122-67-7,AMHNZOICSMBGDH-UHFFFAOYSA-L,56
-17288,&gt; 3.7*10**3,"",X,4592,467,4592,zineb,C<sub>4</sub>H<sub>6</sub>N<sub>2</sub>S<sub>4</sub>Zn,"",12122-67-7,AMHNZOICSMBGDH-UHFFFAOYSA-L,56
+17288, 3.7*10**3,"",X,4592,467,4592,zineb,C<sub>4</sub>H<sub>6</sub>N<sub>2</sub>S<sub>4</sub>Zn,"",12122-67-7,AMHNZOICSMBGDH-UHFFFAOYSA-L,56
 17289,1.6*10**4,"",V,4593,340,4593,ziram,C<sub>6</sub>H<sub>12</sub>N<sub>2</sub>S<sub>4</sub>Zn,"",137-30-4,DUBNHZYBDBBJHD-UHFFFAOYSA-L,56
 17290,2.1*10**5,"",V,4593,479,4593,ziram,C<sub>6</sub>H<sub>12</sub>N<sub>2</sub>S<sub>4</sub>Zn,"",137-30-4,DUBNHZYBDBBJHD-UHFFFAOYSA-L,56
 17291,2.2*10**-5,"",Q,4594,340,4594,diethyl arsine,C<sub>4</sub>H<sub>11</sub>As,"",692-42-2,JZCIYTSNUPIOMK-UHFFFAOYSA-N,57

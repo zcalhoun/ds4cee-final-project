@@ -1,0 +1,66 @@
+\begin{thebibliography}{10}
+
+\bibitem{RN106}
+M.~Lovric, T.~Duricic, H.~T.~N. Tran, H.~Hussain, E.~Lacic, M.~A. Rasmussen,
+  and R.~Kern, ``Should we embed in chemistry? a comparison of unsupervised
+  transfer learning with pca, umap, and vae on molecular fingerprints,'' {\em
+  Pharmaceuticals}, vol.~14, no.~8, p.~758, 2021.
+
+\bibitem{burton}
+G.~A. Burton, R.~Di~Giulio, D.~Costello, and J.~R. Rohr, ``Slipping through the
+  cracks: Why is the u.s. environmental protection agency not funding
+  extramural research on chemicals in our environment?,'' {\em Environmental
+  Science and Technology}, vol.~51, no.~2, pp.~755--756, 2017.
+\newblock doi: 10.1021/acs.est.6b05877.
+
+\bibitem{matthies}
+M.~Matthies, K.~Solomon, M.~Vighi, A.~Gilman, and J.~V. Tarazona, ``The origin
+  and evolution of assessment criteria for persistent, bioaccumulative and
+  toxic (pbt) chemicals and persistent organic pollutants (pops)electronic
+  supplementary information (esi) available. see doi: 10.1039/c6em00311g,''
+  {\em Environmental Science: Processes and Impacts}, vol.~18, no.~9,
+  pp.~1114--1128, 2016.
+
+\bibitem{czub}
+G.~Czub, F.~Wania, and M.~S. McLachlan, ``Combining long-range transport and
+  bioaccumulation considerations to identify potential arctic contaminants,''
+  {\em Environmental Science \& Technology}, vol.~42, no.~10, pp.~3704--3709,
+  2008.
+\newblock doi: 10.1021/es7028679.
+
+\bibitem{meylan}
+W.~M. Meylan and P.~H. Howard, ``Bond contribution method for estimating
+  henry's law constants,'' {\em Environmental Toxicology and Chemistry},
+  vol.~10, no.~10, pp.~1283--1293, 1991.
+
+\bibitem{sander2015}
+R.~Sander, ``Compilation of henry's law constants (version 4.0) for water as
+  solvent,'' {\em Atmospheric Chemistry and Physics}, vol.~15, no.~8,
+  pp.~4399--4981, 2015.
+
+\bibitem{sander-website}
+R.~Sander, ``Henry's law constants: Download.''
+  \url{https://henry.mpch-mainz.gwdg.de/henry/download.html}, April 2022.
+
+\bibitem{oboyle2012}
+N.~M. O'Boyle, ``Towards a universal smiles representation - a standard method
+  to generate canonical smiles based on the inchi,'' {\em Journal of
+  Cheminformatics}, vol.~4, no.~1, p.~22, 2012.
+
+\bibitem{PubChemPy}
+Various, ``Pubchempy.'' Online, April 2012.
+
+\bibitem{kim2015}
+S.~Kim, P.~A. Thiessen, E.~E. Bolton, and S.~H. Bryant, ``Pug-soap and
+  pug-rest: web services for programmatic access to chemical information in
+  pubchem,'' {\em Nucleic acids research}, vol.~43, no.~W1, pp.~W605--W611,
+  2015.
+\newblock 25934803[pmid] PMC4489244[pmcid] gkv396[PII].
+
+\bibitem{jaeger2018}
+S.~Jaeger, S.~Fulle, and S.~Turk, ``Mol2vec: Unsupervised machine learning
+  approach with chemical intuition,'' {\em Journal of Chemical Information and
+  Modeling}, vol.~58, no.~1, pp.~27--35, 2018.
+\newblock doi: 10.1021/acs.jcim.7b00616.
+
+\end{thebibliography}

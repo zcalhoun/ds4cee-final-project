@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.31)  23 APR 2022 13:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.31)  24 APR 2022 21:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -209,149 +209,90 @@ e
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
 (Font)              size <14.4> substituted on input line 36.
 
-
-LaTeX Warning: Citation `RN106' on page 1 undefined on input line 47.
-
-
-LaTeX Warning: Citation `burton' on page 1 undefined on input line 50.
-
-
-LaTeX Warning: Citation `matthies' on page 1 undefined on input line 50.
-
-
-LaTeX Warning: Citation `czub' on page 1 undefined on input line 52.
-
-
-LaTeX Warning: Citation `burton' on page 1 undefined on input line 54.
-
-
-LaTeX Warning: Citation `meylan' on page 1 undefined on input line 54.
-
-[1
-
-{/usr/local/texlive/2021basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Citation `sander2015' on page 2 undefined on input line 69.
-
-
-LaTeX Warning: Citation `sander-website' on page 2 undefined on input line 71.
-
-
-LaTeX Warning: Citation `oboyle2012' on page 2 undefined on input line 74.
-
-
-LaTeX Warning: Citation `PubChemPy' on page 2 undefined on input line 76.
-
-
-LaTeX Warning: Citation `kim2015' on page 2 undefined on input line 76.
-
-[2]
-
-LaTeX Warning: Citation `Ramsundar-et-al-2019' on page 3 undefined on input lin
-e 78.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 89.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
 
 (/usr/local/texlive/2021basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 89.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
 
 
 (/usr/local/texlive/2021basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [3]
-<data-dist.png, id=22, 390.45876pt x 266.9975pt>
+) [1
+
+{/usr/local/texlive/2021basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (0.10538pt too wide) in paragraph at lines 46--47
+[]\OT1/cmr/m/n/12 If we could bet-ter pre-dict en-vi-ron-men-tal fate us-ing st
+ruc-ture, then en-vi-ron-men-tal chemists
+ []
+
+[2] [3] [4] [5]
+<traintest.png, id=29, 433.62pt x 289.08pt>
+File: traintest.png Graphic file (type png)
+<use traintest.png>
+Package pdftex.def Info: traintest.png  used on input line 107.
+(pdftex.def)             Requested size: 289.07999pt x 192.72981pt.
+ [6 <./traintest.png>] [7] (./final-report.bbl [8]
+Underfull \hbox (badness 2042) in paragraph at lines 85--88
+[]\OT1/cmr/m/n/12 D. D. Team, ``Gc-n-model.'' $\OT1/cmtt/m/n/12 https : / / dee
+pchem . readthedocs . io / en / latest / api _
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 100--102
+[]\OT1/cmr/m/n/12 A. F. Agarap, ``Deep learn-ing us-ing rec-ti-fied lin-ear uni
+ts (relu),'' \OT1/cmr/m/it/12 CoRR\OT1/cmr/m/n/12 ,
+ []
+
+) [9] [10]
+<data-dist.png, id=48, 390.45876pt x 266.9975pt>
 File: data-dist.png Graphic file (type png)
 <use data-dist.png>
-Package pdftex.def Info: data-dist.png  used on input line 95.
+Package pdftex.def Info: data-dist.png  used on input line 166.
 (pdftex.def)             Requested size: 289.07999pt x 197.68095pt.
-
-
-LaTeX Warning: Citation `Ramsundar-et-al-2019' on page 4 undefined on input lin
-e 102.
-
-[4 <./data-dist.png>]
-
-LaTeX Warning: Citation `scitkit-learn' on page 5 undefined on input line 109.
-
-[5]
-
-LaTeX Warning: Citation `Kearnes2016' on page 6 undefined on input line 134.
-
-
-LaTeX Warning: Citation `Kipf2016' on page 6 undefined on input line 135.
-
-
-LaTeX Warning: Citation `Velickovic2017' on page 6 undefined on input line 136.
-
-
-
-LaTeX Warning: Citation `Gilmer2017' on page 6 undefined on input line 136.
-
-
-LaTeX Warning: Reference `' on page 6 undefined on input line 142.
-
-
-LaTeX Warning: Citation `English2021' on page 6 undefined on input line 169.
-
-
-LaTeX Warning: Citation `RN106' on page 6 undefined on input line 174.
-
-[6]
-
-LaTeX Warning: Citation `English2021' on page 7 undefined on input line 181.
-
-
-LaTeX Warning: Citation `Mansouri2018' on page 7 undefined on input line 182.
-
-[7]
-<PCA_all.png, id=39, 433.62pt x 289.08pt>
+ [11 <./data-dist.png>]
+<PCA_all.png, id=53, 433.62pt x 289.08pt>
 File: PCA_all.png Graphic file (type png)
 <use PCA_all.png>
-Package pdftex.def Info: PCA_all.png  used on input line 193.
+Package pdftex.def Info: PCA_all.png  used on input line 177.
 (pdftex.def)             Requested size: 289.07999pt x 192.72981pt.
-<PCA_subcat40.png, id=40, 433.62pt x 289.08pt>
+<PCA_subcat40.png, id=54, 433.62pt x 289.08pt>
 File: PCA_subcat40.png Graphic file (type png)
 <use PCA_subcat40.png>
-Package pdftex.def Info: PCA_subcat40.png  used on input line 202.
+Package pdftex.def Info: PCA_subcat40.png  used on input line 186.
 (pdftex.def)             Requested size: 289.07999pt x 192.72981pt.
- [8 <./PCA_all.png> <./PCA_subcat40.png>]
-No file final-report.bbl.
-[9] (./final-report.aux)
+ [12 <./PCA_all.png> <./PCA_subcat40.png>]
+[13] (./final-report.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.6pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 2946 strings out of 479738
- 44953 string characters out of 5880977
- 339411 words of memory out of 5000000
- 20918 multiletter control sequences out of 15000+600000
- 475968 words of font info for 53 fonts, out of 8000000 for 9000
+ 2983 strings out of 479738
+ 45470 string characters out of 5880977
+ 340577 words of memory out of 5000000
+ 20953 multiletter control sequences out of 15000+600000
+ 475631 words of font info for 52 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 55i,9n,62p,1074b,230s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts
-1.enc}</usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi12.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2021basic/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2021basic/texmf-dis
-t/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on final-report.pdf (9 pages, 154212 bytes).
+ 55i,9n,62p,1556b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi12.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr17.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2021basic/texmf-dist/fo
+nts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on final-report.pdf (13 pages, 189854 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

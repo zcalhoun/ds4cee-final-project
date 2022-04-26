@@ -1,12 +1,148 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Zachary Calhoun at 2022-04-23 11:35:24 -0400 
+%% Created for Zachary Calhoun at 2022-04-24 21:48:12 -0400 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@book{oecd2014,
+	author = {OECD},
+	date-added = {2022-04-24 12:45:57 -0400},
+	date-modified = {2022-04-24 12:46:03 -0400},
+	doi = {doi:https://doi.org/10.1787/9789264085442-en},
+	title = {Guidance Document on the Validation of (Quantitative) Structure-Activity Relationship [(Q)SAR] Models},
+	type = {Book},
+	url = {https://www.oecd-ilibrary.org/content/publication/9789264085442-en},
+	year = {2014},
+	bdsk-url-1 = {https://www.oecd-ilibrary.org/content/publication/9789264085442-en},
+	bdsk-url-2 = {doi:https://doi.org/10.1787/9789264085442-en}}
+
+@article{zhang2021,
+	author = {Zhang, Boyu and Zhou, Mushen and Wu, Jianzhong and Gao, Fuchang},
+	copyright = {Creative Commons Attribution 4.0 International},
+	date-added = {2022-04-24 12:39:52 -0400},
+	date-modified = {2022-04-24 21:45:43 -0400},
+	doi = {10.48550/ARXIV.2102.11023},
+	keywords = {Materials Science (cond-mat.mtrl-sci), Artificial Intelligence (cs.AI), FOS: Physical sciences, FOS: Physical sciences, FOS: Computer and information sciences, FOS: Computer and information sciences},
+	publisher = {arXiv},
+	title = {Predicting Material Properties Using a 3D Graph Neural Network with Invariant Local Descriptors},
+	url = {https://arxiv.org/abs/2102.11023},
+	year = {2021},
+	bdsk-url-1 = {https://arxiv.org/abs/2102.11023},
+	bdsk-url-2 = {https://doi.org/10.48550/ARXIV.2102.11023}}
+
+@article{mansouri2018a,
+	abstract = {The collection of chemical structure information and associated experimental data for quantitative structure-activity/property relationship (QSAR/QSPR) modeling is facilitated by an increasing number of public databases containing large amounts of useful data. However, the performance of QSAR models highly depends on the quality of the data and modeling methodology used. This study aims to develop robust QSAR/QSPR models for chemical properties of environmental interest that can be used for regulatory purposes. This study primarily uses data from the publicly available PHYSPROP database consisting of a set of 13 common physicochemical and environmental fate properties. These datasets have undergone extensive curation using an automated workflow to select only high-quality data, and the chemical structures were standardized prior to calculation of the molecular descriptors. The modeling procedure was developed based on the five Organization for Economic Cooperation and Development (OECD) principles for QSAR models. A weighted k-nearest neighbor approach was adopted using a minimum number of required descriptors calculated using PaDEL, an open-source software. The genetic algorithms selected only the most pertinent and mechanistically interpretable descriptors (2-15, with an average of 11 descriptors). The sizes of the modeled datasets varied from 150 chemicals for biodegradability half-life to 14,050 chemicals for logP, with an average of 3222 chemicals across all endpoints. The optimal models were built on randomly selected training sets (75%) and validated using fivefold cross-validation (CV) and test sets (25%). The CV Q(2) of the models varied from 0.72 to 0.95, with an average of 0.86 and an R(2) test value from 0.71 to 0.96, with an average of 0.82. Modeling and performance details are described in QSAR model reporting format and were validated by the European Commission's Joint Research Center to be OECD compliant. All models are freely available as an open-source, command-line application called OPEn structure-activity/property Relationship App (OPERA). OPERA models were applied to more than 750,000 chemicals to produce freely available predicted data on the U.S. Environmental Protection Agency's CompTox Chemistry Dashboard.},
+	author = {Mansouri, Kamel and Grulke, Chris M. and Judson, Richard S. and Williams, Antony J.},
+	date-added = {2022-04-24 12:29:35 -0400},
+	date-modified = {2022-04-24 12:29:42 -0400},
+	doi = {10.1186/s13321-018-0263-1},
+	issn = {1758-2946},
+	journal = {Journal of cheminformatics},
+	keywords = {Environmental fate Model validation OECD principles OPERA Open data Open source Physicochemical properties QMRF QSAR/QSPR},
+	note = {29520515[pmid] PMC5843579[pmcid] 10.1186/s13321-018-0263-1[PII]},
+	number = {1},
+	pages = {10-10},
+	title = {OPERA models for predicting physicochemical properties and environmental fate endpoints},
+	type = {Journal Article},
+	url = {https://pubmed.ncbi.nlm.nih.gov/29520515 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5843579/},
+	volume = {10},
+	year = {2018},
+	bdsk-url-1 = {https://pubmed.ncbi.nlm.nih.gov/29520515%20https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5843579/},
+	bdsk-url-2 = {https://doi.org/10.1186/s13321-018-0263-1}}
+
+@article{williams2017,
+	abstract = {Despite an abundance of online databases providing access to chemical data, there is increasing demand for high-quality, structure-curated, open data to meet the various needs of the environmental sciences and computational toxicology communities. The U.S. Environmental Protection Agency's (EPA) web-based CompTox Chemistry Dashboard is addressing these needs by integrating diverse types of relevant domain data through a cheminformatics layer, built upon a database of curated substances linked to chemical structures. These data include physicochemical, environmental fate and transport, exposure, usage, in vivo toxicity, and in vitro bioassay data, surfaced through an integration hub with link-outs to additional EPA data and public domain online resources. Batch searching allows for direct chemical identifier (ID) mapping and downloading of multiple data streams in several different formats. This facilitates fast access to available structure, property, toxicity, and bioassay data for collections of chemicals (hundreds to thousands at a time). Advanced search capabilities are available to support, for example, non-targeted analysis and identification of chemicals using mass spectrometry. The contents of the chemistry database, presently containing ~ 760,000 substances, are available as public domain data for download. The chemistry content underpinning the Dashboard has been aggregated over the past 15 years by both manual and auto-curation techniques within EPA's DSSTox project. DSSTox chemical content is subject to strict quality controls to enforce consistency among chemical substance-structure identifiers, as well as list curation review to ensure accurate linkages of DSSTox substances to chemical lists and associated data. The Dashboard, publicly launched in April 2016, has expanded considerably in content and user traffic over the past year. It is continuously evolving with the growth of DSSTox into high-interest or data-rich domains of interest to EPA, such as chemicals on the Toxic Substances Control Act listing, while providing the user community with a flexible and dynamic web-based platform for integration, processing, visualization and delivery of data and resources. The Dashboard provides support for a broad array of research and regulatory programs across the worldwide community of toxicologists and environmental scientists.},
+	author = {Williams, Antony J. and Grulke, Christopher M. and Edwards, Jeff and McEachran, Andrew D. and Mansouri, Kamel and Baker, Nancy C. and Patlewicz, Grace and Shah, Imran and Wambaugh, John F. and Judson, Richard S. and Richard, Ann M.},
+	date-added = {2022-04-24 12:14:51 -0400},
+	date-modified = {2022-04-24 12:14:57 -0400},
+	doi = {10.1186/s13321-017-0247-6},
+	issn = {1758-2946},
+	journal = {Journal of Cheminformatics},
+	number = {1},
+	pages = {61},
+	title = {The CompTox Chemistry Dashboard: a community data resource for environmental chemistry},
+	type = {Journal Article},
+	url = {https://doi.org/10.1186/s13321-017-0247-6},
+	volume = {9},
+	year = {2017},
+	bdsk-url-1 = {https://doi.org/10.1186/s13321-017-0247-6}}
+
+@article{kingma2014,
+	author = {Kingma, Diederik P. and Ba, Jimmy},
+	copyright = {arXiv.org perpetual, non-exclusive license},
+	date-added = {2022-04-24 12:05:03 -0400},
+	date-modified = {2022-04-24 21:45:54 -0400},
+	doi = {10.48550/ARXIV.1412.6980},
+	keywords = {Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+	publisher = {arXiv},
+	title = {Adam: A Method for Stochastic Optimization},
+	url = {https://arxiv.org/abs/1412.6980},
+	year = {2014},
+	bdsk-url-1 = {https://arxiv.org/abs/1412.6980},
+	bdsk-url-2 = {https://doi.org/10.48550/ARXIV.1412.6980}}
+
+@article{Agarap2018,
+	author = {Abien Fred Agarap},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	biburl = {https://dblp.org/rec/journals/corr/abs-1803-08375.bib},
+	date-added = {2022-04-24 11:50:36 -0400},
+	date-modified = {2022-04-24 11:50:48 -0400},
+	eprint = {1803.08375},
+	eprinttype = {arXiv},
+	journal = {CoRR},
+	timestamp = {Mon, 13 Aug 2018 16:47:13 +0200},
+	title = {Deep Learning using Rectified Linear Units (ReLU)},
+	url = {http://arxiv.org/abs/1803.08375},
+	volume = {abs/1803.08375},
+	year = {2018},
+	bdsk-url-1 = {http://arxiv.org/abs/1803.08375}}
+
+@misc{rdkit,
+	author = {Greg Landrum},
+	date-added = {2022-04-24 11:37:38 -0400},
+	date-modified = {2022-04-24 21:42:42 -0400},
+	howpublished = {\url{http://www.rdkit.org}},
+	title = {RDKit: Open-source cheminformatics},
+	year = {2022},
+	bdsk-url-1 = {http://www.rdkit.org}}
+
+@misc{gcnmodel,
+	author = {DeepChem Development Team},
+	date-added = {2022-04-24 10:58:47 -0400},
+	date-modified = {2022-04-24 21:06:51 -0400},
+	howpublished = {\url{https://deepchem.readthedocs.io/en/latest/api_reference/models.html?highlight=l2loss#gcnmodel}},
+	title = {GCNModel},
+	year = {2022}}
+
+@article{Srivastava2014,
+	abstract = {Deep neural nets with a large number of parameters are very powerful machine learning systems. However, overfitting is a serious problem in such networks. Large networks are also slow to use, making it difficult to deal with overfitting by combining the predictions of many different large neural nets at test time. Dropout is a technique for addressing this problem. The key idea is to randomly drop units (along with their connections) from the neural network during training. This prevents units from co-adapting too much. During training, dropout samples from an exponential number of different "thinned" networks. At test time, it is easy to approximate the effect of averaging the predictions of all these thinned networks by simply using a single unthinned network that has smaller weights. This significantly reduces overfitting and gives major improvements over other regularization methods. We show that dropout improves the performance of neural networks on supervised learning tasks in vision, speech recognition, document classification and computational biology, obtaining state-of-the-art results on many benchmark data sets.},
+	author = {Srivastava, Nitish and Hinton, Geoffrey and Krizhevsky, Alex and Sutskever, Ilya and Salakhutdinov, Ruslan},
+	date-added = {2022-04-24 09:13:28 -0400},
+	date-modified = {2022-04-24 09:13:36 -0400},
+	issn = {1532-4435},
+	issue_date = {January 2014},
+	journal = {J. Mach. Learn. Res.},
+	keywords = {regularization, deep learning, neural networks, model combination},
+	month = {jan},
+	number = {1},
+	numpages = {30},
+	pages = {1929--1958},
+	publisher = {JMLR.org},
+	title = {Dropout: A Simple Way to Prevent Neural Networks from Overfitting},
+	volume = {15},
+	year = {2014}}
+
+@article{wang2019dgl,
+	author = {Minjie Wang and Da Zheng and Zihao Ye and Quan Gan and Mufei Li and Xiang Song and Jinjing Zhou and Chao Ma and Lingfan Yu and Yu Gai and Tianjun Xiao and Tong He and George Karypis and Jinyang Li and Zheng Zhang},
+	date-added = {2022-04-23 17:52:36 -0400},
+	date-modified = {2022-04-23 17:52:36 -0400},
+	journal = {arXiv preprint arXiv:1909.01315},
+	title = {Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph Neural Networks},
+	year = {2019}}
 
 @article{scikit-learn,
 	author = {Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, V. and Thirion, B. and Grisel, O. and Blondel, M. and Prettenhofer, P. and Weiss, R. and Dubourg, V. and Vanderplas, J. and Passos, A. and Cournapeau, D. and Brucher, M. and Perrot, M. and Duchesnay, E.},
@@ -27,11 +163,11 @@
 	title = {Deep Learning for the Life Sciences},
 	year = {2019}}
 
-@misc{Gilmer2017,
+@article{Gilmer2017,
 	author = {Gilmer, Justin and Schoenholz, Samuel S. and Riley, Patrick F. and Vinyals, Oriol and Dahl, George E.},
 	copyright = {arXiv.org perpetual, non-exclusive license},
 	date-added = {2022-04-23 09:04:13 -0400},
-	date-modified = {2022-04-23 09:04:18 -0400},
+	date-modified = {2022-04-24 21:45:33 -0400},
 	doi = {10.48550/ARXIV.1704.01212},
 	keywords = {Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences, I.2.6},
 	publisher = {arXiv},
@@ -41,11 +177,11 @@
 	bdsk-url-1 = {https://arxiv.org/abs/1704.01212},
 	bdsk-url-2 = {https://doi.org/10.48550/ARXIV.1704.01212}}
 
-@misc{Velickovic2017,
+@article{Velickovic2017,
 	author = {Veli{\v c}kovi{\'c}, Petar and Cucurull, Guillem and Casanova, Arantxa and Romero, Adriana and Li{\`o}, Pietro and Bengio, Yoshua},
 	copyright = {arXiv.org perpetual, non-exclusive license},
 	date-added = {2022-04-23 09:02:43 -0400},
-	date-modified = {2022-04-23 09:02:52 -0400},
+	date-modified = {2022-04-24 21:45:11 -0400},
 	doi = {10.48550/ARXIV.1710.10903},
 	keywords = {Machine Learning (stat.ML), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), Social and Information Networks (cs.SI), FOS: Computer and information sciences, FOS: Computer and information sciences},
 	publisher = {arXiv},
@@ -252,13 +388,12 @@
 	bdsk-url-1 = {https://pubmed.ncbi.nlm.nih.gov/29520515%20https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5843579/},
 	bdsk-url-2 = {https://doi.org/10.1186/s13321-018-0263-1}}
 
-@book{Mansouri2017,
+@article{Mansouri2017,
 	author = {Kamel, Mansouri and Williams, Antony},
 	date-added = {2022-04-18 18:30:58 -0400},
-	date-modified = {2022-04-18 18:33:21 -0400},
+	date-modified = {2022-04-24 21:48:10 -0400},
 	doi = {10.13140/RG.2.2.17764.99201/1},
 	title = {HL model for Henry's Law constant prediction from OPERA models},
-	type = {Book},
 	year = {2017},
 	bdsk-url-1 = {https://doi.org/10.13140/RG.2.2.17764.99201/1}}
 

@@ -1,54 +1,88 @@
 \relax 
-\citation{RN106}
 \citation{burton}
 \citation{matthies}
 \citation{czub}
 \citation{burton}
 \citation{meylan}
 \@writefile{toc}{\contentsline {section}{\numberline {1}Abstract}{1}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2}Project Objective}{1}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3}Problem Statement}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Problem Statement}{1}{}\protected@file@percent }
 \citation{sander2015}
 \citation{sander-website}
 \citation{oboyle2012}
 \citation{PubChemPy}
 \citation{kim2015}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Previous Research}{2}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4}Data Summary}{2}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Henry's Law Constants}{2}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Chemical Properties}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Data Summary}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Henry's Law Constants}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Chemical Properties}{2}{}\protected@file@percent }
 \citation{Ramsundar-et-al-2019}
-\@writefile{toc}{\contentsline {section}{\numberline {5}Preprocessing the data}{3}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Joining the Data}{3}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Log Transform}{3}{}\protected@file@percent }
+\citation{rdkit}
 \citation{Ramsundar-et-al-2019}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces The Distribution of $\log  K_H$, where $K_H$ refers to the Henry's Law Constant.}}{4}{}\protected@file@percent }
-\newlabel{fig:dist}{{1}{4}}
-\@writefile{toc}{\contentsline {section}{\numberline {6}Methods}{4}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Using Physiochemical Properties}{4}{}\protected@file@percent }
-\citation{scitkit-learn}
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Using Molecular Fingerprints}{5}{}\protected@file@percent }
-\citation{Kearnes2016}
-\citation{Kipf2016}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Preprocessing the data}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Joining the Data}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Log Transform}{3}{}\protected@file@percent }
+\citation{scikit-learn}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Methods}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Using Physiochemical Properties}{4}{}\protected@file@percent }
 \citation{Velickovic2017}
 \citation{Gilmer2017}
-\citation{English2021}
-\citation{RN106}
-\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Using a Graph Neural Network}{6}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {7}Results}{6}{}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Remember, \emph  {never} use vertical lines in tables.}}{6}{}\protected@file@percent }
-\newlabel{tab:booktabs}{{1}{6}}
-\@writefile{toc}{\contentsline {section}{\numberline {8}Discussion}{6}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {9}Conclusions}{6}{}\protected@file@percent }
-\citation{English2021}
+\citation{Kipf2016}
+\citation{gcnmodel}
+\citation{Kearnes2016}
+\citation{Srivastava2014}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Using a Graph Neural Network}{5}{}\protected@file@percent }
+\newlabel{eqn:gnn}{{1}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.2.1}Training the GCNN}{5}{}\protected@file@percent }
+\citation{Agarap2018}
+\citation{kingma2014}
 \citation{Mansouri2018}
-\@writefile{toc}{\contentsline {section}{\numberline {10}IF I HAD MORE TIME}{7}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {11}Supplemental Material}{8}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {11.1}Analysis of Principal Components}{8}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Principal Components for all of the data}}{8}{}\protected@file@percent }
-\newlabel{fig:pc1}{{2}{8}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Mapping data into the principal components for one subcategory}}{8}{}\protected@file@percent }
-\newlabel{fig:pc2}{{3}{8}}
+\citation{williams2017}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Train and Test $R^2$ over 70 epochs. Results suggest little overfitting.}}{6}{}\protected@file@percent }
+\newlabel{fig:traintest}{{1}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Results}{6}{}\protected@file@percent }
+\citation{Mansouri2018}
+\citation{zhang2021}
+\citation{English2001}
+\citation{oecd2014}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Results shown for the RF and GCNN. MSE and $R^2$ are computed on both the same test set for the OPERA method, as well as for all chemicals analyzed.}}{7}{}\protected@file@percent }
+\newlabel{tab:results}{{1}{7}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Conclusions}{7}{}\protected@file@percent }
 \bibdata{ds4cee-final-project}
+\bibcite{burton}{1}
+\bibcite{matthies}{2}
+\bibcite{czub}{3}
+\bibcite{meylan}{4}
+\bibcite{sander2015}{5}
+\bibcite{sander-website}{6}
+\bibcite{oboyle2012}{7}
+\bibcite{PubChemPy}{8}
+\bibcite{kim2015}{9}
+\bibcite{Ramsundar-et-al-2019}{10}
+\bibcite{rdkit}{11}
+\bibcite{scikit-learn}{12}
+\bibcite{Velickovic2017}{13}
+\bibcite{Gilmer2017}{14}
+\bibcite{Kipf2016}{15}
+\bibcite{gcnmodel}{16}
+\bibcite{Kearnes2016}{17}
+\bibcite{Srivastava2014}{18}
+\bibcite{Agarap2018}{19}
+\bibcite{kingma2014}{20}
+\bibcite{Mansouri2018}{21}
+\bibcite{williams2017}{22}
+\bibcite{zhang2021}{23}
+\bibcite{English2001}{24}
+\bibcite{oecd2014}{25}
 \bibstyle{ieeetr}
-\gdef \@abspage@last{9}
+\citation{burton}
+\@writefile{toc}{\contentsline {section}{\numberline {8}Broader Impacts}{10}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {9}Supplemental Material}{11}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.1}Distribution of the Data}{11}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces The Distribution of $\log  K_H$, where $K_H$ refers to the Henry's Law Constant.}}{11}{}\protected@file@percent }
+\newlabel{fig:dist}{{2}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.2}Analysis of Principal Components}{12}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Principal Components for all of the data}}{12}{}\protected@file@percent }
+\newlabel{fig:pc1}{{3}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Mapping data into the principal components for one subcategory}}{12}{}\protected@file@percent }
+\newlabel{fig:pc2}{{4}{12}}
+\@writefile{toc}{\contentsline {section}{\numberline {10}Honor Code}{13}{}\protected@file@percent }
+\gdef \@abspage@last{13}
